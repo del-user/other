@@ -1,0 +1,742 @@
+[Error: 2023-10-29 16:12:10.9721631: localization.cpp(110)] No translation found for "Unable to download the launcher update. Launching previous version..."
+[Error: 2023-10-29 16:12:10.9722179: localization.cpp(110)] No translation found for "Unable to update the launcher."
+[Error: 2023-10-29 16:12:10.9722281: localization.cpp(110)] No translation found for "Unable to download the bootstrap update. Launching previous version..."
+[Error: 2023-10-29 16:12:10.9722380: localization.cpp(110)] No translation found for "Unable to update the bootstrap."
+[Info: 2023-10-29 16:12:10.9737981: NetQueue.cpp(32)] NetQueue: Setting up.
+[Info: 2023-10-29 16:12:10.9750260: NetQueue.cpp(414)] NetQueue: worker thread started.
+[Info: 2023-10-29 16:12:10.9750981: mainWindows.cpp(117)] Running launcher bootstrap (version 1.6.2)
+[Info: 2023-10-29 16:12:10.9776288: NetQueue.cpp(32)] NetQueue: Setting up.
+[Info: 2023-10-29 16:12:10.9778917: NetQueue.cpp(414)] NetQueue: worker thread started.
+[Error: 2023-10-29 16:12:10.9785001: localization.cpp(110)] No translation found for "Unable to download the launcher update. Launching previous version..."
+[Error: 2023-10-29 16:12:10.9785274: localization.cpp(110)] No translation found for "Unable to update the launcher."
+[Error: 2023-10-29 16:12:10.9785453: localization.cpp(110)] No translation found for "Unable to download the bootstrap update. Launching previous version..."
+[Error: 2023-10-29 16:12:10.9785609: localization.cpp(110)] No translation found for "Unable to update the bootstrap."
+[Info: 2023-10-29 16:12:10.9785988: Common.cpp(35)] Native Launcher Version: 1.6.2
+[Info: 2023-10-29 16:12:10.9786254: Common.cpp(36)] Operating System: Windows 10 Home
+[Info: 2023-10-29 16:12:10.9786949: Common.cpp(37)] Application Data directory: C:\...\.minecraft
+[Info: 2023-10-29 16:12:10.9788453: Common.cpp(38)] Executable Path: /:\...\minecraft.exe
+[Info: 2023-10-29 16:12:10.9788781: Common.cpp(39)] App Directory dir: C:\...\Install
+[Info: 2023-10-29 16:12:10.9789097: Common.cpp(40)] Game data directory: C:\...\Install
+[Info: 2023-10-29 16:12:10.9789391: Common.cpp(41)] Launcher dir: C:\...\game
+[Info: 2023-10-29 16:12:10.9789692: Common.cpp(42)] Update dir: C:\...\update_files
+[Info: 2023-10-29 16:12:10.9790013: Common.cpp(43)] TmpDir dir: 
+[Info: 2023-10-29 16:12:10.9790237: Common.cpp(44)] StagingDir dir: C:\...\staging
+[Warning: 2023-10-29 16:12:10.9800106: UpdateChecking.cpp(323)] Unable to find 'channel' key in settings.
+[Info: 2023-10-29 16:12:10.9800507: UpdateChecking.cpp(351)] Failed to read update preferences from C:\...\launcher_profiles.json
+[Info: 2023-10-29 16:12:10.9800896: UpdateChecking.cpp(356)] Using update preferences at path: C:\...\launcher_settings.json
+[Info: 2023-10-29 16:12:10.9802858: KeyMakerCache.cpp(213)] Initializing KeyMaker response cache...
+[Info: 2023-10-29 16:12:10.9803120: KeyMakerCache.cpp(219)] KeyMaker response cache initialized.
+[Info: 2023-10-29 16:12:10.9820962: NetQueue.cpp(213)] NetQueue: Starting net action https://client.discovery.minecraft-services.net/api/v1.0/discovery/MinecraftPE/builds/1.18.12
+[Info: 2023-10-29 16:12:11.4771035: CurlNetQueue.cpp(578)] NetQueue: Primary ip: 13.107.246.44, Host: client.discovery.minecraft-services.net
+[Info: 2023-10-29 16:12:11.4771589: NetQueue.cpp(102)] NetQueue: Action finished: https://client.discovery.minecraft-services.net/api/v1.0/discovery/MinecraftPE/builds/1.18.12
+[Info: 2023-10-29 16:12:11.4773731: NetQueue.cpp(133)] Action finalized: https://client.discovery.minecraft-services.net/api/v1.0/discovery/MinecraftPE/builds/1.18.12
+[Info: 2023-10-29 16:12:11.4778776: KeyMaker.cpp(95)] Using cached update source...
+[Info: 2023-10-29 16:12:11.4782396: NetQueue.cpp(213)] NetQueue: Starting net action https://redstone-launcher.mojang.com/release/v2/products/launcher/8c27cef2cad375cacbb4a98169dae13a58fb7c09/win32.json
+[Info: 2023-10-29 16:12:11.8756658: CurlNetQueue.cpp(578)] NetQueue: Primary ip: 13.107.213.44, Host: redstone-launcher.mojang.com
+[Info: 2023-10-29 16:12:11.8757608: NetQueue.cpp(102)] NetQueue: Action finished: https://redstone-launcher.mojang.com/release/v2/products/launcher/8c27cef2cad375cacbb4a98169dae13a58fb7c09/win32.json
+[Info: 2023-10-29 16:12:11.8761219: NetQueue.cpp(133)] Action finalized: https://redstone-launcher.mojang.com/release/v2/products/launcher/8c27cef2cad375cacbb4a98169dae13a58fb7c09/win32.json
+[Info: 2023-10-29 16:12:11.8763246: AzureUpdateTools.cpp(279)] Version of bootstrap is current, no action is necessary.
+[Info: 2023-10-29 16:12:11.8763533: AzureUpdateTools.cpp(299)] bootstrap is current
+[Info: 2023-10-29 16:12:11.8763818: AzureUpdateTools.cpp(279)] Version of core is current, no action is necessary.
+[Info: 2023-10-29 16:12:11.8764020: AzureUpdateTools.cpp(299)] core is current
+[Info: 2023-10-29 16:12:11.8764324: StartLibrary.cpp(62)] Starting C:\...\launcher.dll
+[Info: 2023-10-29 16:12:11.8890243: StartLibrary.cpp(111)] Running launcher!
+[Info: 2023-10-29 16:12:11.8890709: StartLibrary.cpp(113)] Logging is open, passing it to Launcher Core.
+[Info: 2023-10-29 16:12:11.8897849: LauncherMain.cpp(108)] Initiated models
+[Info: 2023-10-29 16:12:11.8914832: LauncherMain.cpp(279)] Initiated app arguments
+[Info: 2023-10-29 16:12:11.8915166: LauncherMain.cpp(337)] Initiated directories
+[Info: 2023-10-29 16:12:11.8915754: LauncherMain.cpp(361)] Initialized network
+[Info: 2023-10-29 16:12:11.8915972: NetQueue.cpp(32)] NetQueue: Setting up.
+[Info: 2023-10-29 16:12:11.8920310: NetQueue.cpp(414)] NetQueue: worker thread started.
+[Info: 2023-10-29 16:12:11.8921267: LauncherMain.cpp(384)] Initialized Sentry
+[Info: 2023-10-29 16:12:11.8921695: LauncherMain.cpp(392)] workDir: %USERPROFILE%\curseforge\minecraft\Install
+[Info: 2023-10-29 16:12:11.8922044: LauncherMain.cpp(402)] appDir: %USERPROFILE%\curseforge\minecraft\Install
+[Info: 2023-10-29 16:12:11.8927290: LauncherMain.cpp(428)] Launcher core version: 2.12.17 (f94e003683d1dea85a6a2065e214ffc8517f1f27)
+[Info: 2023-10-29 16:12:11.8927738: LauncherMain.cpp(429)] Main process: true
+[Info: 2023-10-29 16:12:11.8928443: NetQueue.cpp(32)] NetQueue: Setting up.
+[Info: 2023-10-29 16:12:11.8932497: NetQueue.cpp(414)] NetQueue: worker thread started.
+[Info: 2023-10-29 16:12:11.8944771: NetQueue.cpp(213)] NetQueue: Starting net action https://www.xboxab.com/ab
+[Info: 2023-10-29 16:12:11.8947986: LauncherController.cpp(661)] Constructing launcher controller with workDir: %USERPROFILE%\curseforge\minecraft\Install, isActive: 1
+[Info: 2023-10-29 16:12:11.8972043: NetQueue.cpp(32)] NetQueue: Setting up.
+[Info: 2023-10-29 16:12:11.8975804: NetQueue.cpp(414)] NetQueue: worker thread started.
+[Info: 2023-10-29 16:12:11.8989351: XalStorage.cpp(518)] Parsing content from MSA File
+[Info: 2023-10-29 16:12:11.8991097: XalContext.cpp(514)] ClockSkew is -4093290 (0 seconds)
+[Info: 2023-10-29 16:12:11.8992058: Xal.lib(0)] XAL: Initializing Xal 2021.11.20220411.002, Win32 platform
+[Info: 2023-10-29 16:12:11.8992297: Xal.lib(0)] XAL: Init args:
+[Info: 2023-10-29 16:12:11.8992491: Xal.lib(0)] XAL:     sandbox: 
+[Info: 2023-10-29 16:12:11.8992678: Xal.lib(0)] XAL:     disableDiagnosticTelemetry: false
+[Info: 2023-10-29 16:12:11.8992924: Xal.lib(0)] XAL:     correlationVector: (null)
+[Info: 2023-10-29 16:12:11.8993109: Xal.lib(0)] XAL:     flags: 91000000
+[Info: 2023-10-29 16:12:11.8993295: Xal.lib(0)] XAL:     thirdPartyConsent (0)
+[Info: 2023-10-29 16:12:11.8993475: Xal.lib(0)] XAL:     redirectUri: 
+[Warning: 2023-10-29 16:12:11.8994007: Xal.lib(0)] XAL: Expected REG_SZ type for SOFTWARE\Microsoft\XboxLive\Sandbox, found 0 instead
+[Info: 2023-10-29 16:12:11.9015053: Xal.lib(0)] XAL: Diagnostic telemetry disabled: false
+[Info: 2023-10-29 16:12:11.9018355: Xal.lib(0)] XAL: [op 61596360] Operation UploadTelemetryEventsWithDelay is starting
+[Info: 2023-10-29 16:12:11.9018724: Xal.lib(0)] XAL_TELEMETRY: AppActivation Version="2021.11.20220411.002"
+[Info: 2023-10-29 16:12:11.9019830: Xal.lib(0)] XAL: [op 61596472] Operation InitializeComponents is starting
+[Info: 2023-10-29 16:12:11.9020140: Xal.lib(0)] XAL: [op 61596472]     with CV '1qO6ycwLdubZq0AU.0.0'
+[Info: 2023-10-29 16:12:11.9021616: Xal.lib(0)] XAL: [op 72134144] Operation InitializeTokenStack is starting
+[Info: 2023-10-29 16:12:11.9021896: Xal.lib(0)] XAL: [op 72134144]     with CV '1qO6ycwLdubZq0AU.0.0'
+[Info: 2023-10-29 16:12:11.9022900: Xal.lib(0)] XAL: [op 61596584] Operation LoadClockSkew is starting
+[Info: 2023-10-29 16:12:11.9023155: Xal.lib(0)] XAL: [op 61596584]     with CV '1qO6ycwLdubZq0AU.0.0'
+[Info: 2023-10-29 16:12:11.9023460: Xal.lib(0)] XAL: [op 61452104] Client operation StorageReadPlatformOperation starting (promise 61594904)
+[Warning: 2023-10-29 16:12:11.9027344: Telemetry.cpp(80)] Did not see any telemetry sink treatment tags, adding the playFab sink by default.
+[Error: 2023-10-29 16:12:11.9033561: PersistentReflectedStruct.h(54)] Data version 3 is greater than current version 0 but we don't support downgrading.
+[Warning: 2023-10-29 16:12:11.9033968: PreferencesManager.cpp(586)] Unable to load profile settings.
+[Info: 2023-10-29 16:12:11.9041853: PreferencesManager.cpp(132)] Removed %USERPROFILE%\curseforge\minecraft\Install\launcher_profiles_microsoft_store.json
+[Info: 2023-10-29 16:12:11.9048797: GameVersionManager.cpp(272)] Reading local cache of the Mojang versions manifest (version_manifest_v2.json)...
+[Info: 2023-10-29 16:12:11.9094745: Xal.lib(0)] XAL: [op 61452104] Client operation StorageReadPlatformOperation calling platform handler
+[Info: 2023-10-29 16:12:11.9095607: Xal.lib(0)] XAL: [op 61452104] Added operation as handle 03A9AFB4 with type 6B2A2A5C
+[Info: 2023-10-29 16:12:11.9095836: XalStorage.cpp(314)] [op 03A9AFB4] Xal Read callback - Started
+[Info: 2023-10-29 16:12:11.9096177: XalStorage.cpp(414)] [op 03A9AFB4] Xal Read callback - Failed
+[Info: 2023-10-29 16:12:11.9098157: Xal.lib(0)] XAL: [op 61452104] Client operation StorageReadPlatformOperation platform handler reported completion status 'XalPlatformOperationResult_Failure' (1)
+[Info: 2023-10-29 16:12:11.9098430: Xal.lib(0)] XAL: [op 61452104] Cleared operation handle 03A9AFB4
+[Info: 2023-10-29 16:12:11.9098658: Xal.lib(0)] XAL: [op 61452104] Client operation StorageReadPlatformOperation failed with result 0x89235107: Client operation failed
+[Info: 2023-10-29 16:12:11.9138678: GameVersionManager.cpp(313)] Looking for installed versions in %USERPROFILE%\curseforge\minecraft\Install\versions
+[Info: 2023-10-29 16:12:11.9142701: GameVersionManager.cpp(354)] Parsing version 1.16.5
+[Info: 2023-10-29 16:12:11.9159006: GameVersionManager.cpp(354)] Parsing version 1.18.2
+[Info: 2023-10-29 16:12:11.9175323: GameVersionManager.cpp(354)] Parsing version 1.20.2
+[Info: 2023-10-29 16:12:11.9193009: GameVersionManager.cpp(354)] Parsing version 23w43a
+[Info: 2023-10-29 16:12:11.9211469: GameVersionManager.cpp(354)] Parsing version 23w43b
+[Info: 2023-10-29 16:12:11.9230331: GameVersionManager.cpp(354)] Parsing version forge-36.2.34
+[Info: 2023-10-29 16:12:11.9237752: GameVersionManager.cpp(354)] Parsing version forge-40.2.0
+[Warning: 2023-10-29 16:12:11.9243129: GameVersionManager.cpp(368)] forge-40.2.0.json.libraries[0].clientreq: Unknown key
+[Error: 2023-10-29 16:12:11.9243367: GameVersionManager.cpp(364)] forge-40.2.0.json.libraries[0].natives: Expected object
+[Error: 2023-10-29 16:12:11.9243581: GameVersionManager.cpp(364)] forge-40.2.0.json.libraries[0].rules: Expected array
+[Warning: 2023-10-29 16:12:11.9243744: GameVersionManager.cpp(368)] forge-40.2.0.json.libraries[0].serverreq: Unknown key
+[Warning: 2023-10-29 16:12:11.9243877: GameVersionManager.cpp(368)] forge-40.2.0.json.libraries[10].clientreq: Unknown key
+[Error: 2023-10-29 16:12:11.9244042: GameVersionManager.cpp(364)] forge-40.2.0.json.libraries[10].natives: Expected object
+[Error: 2023-10-29 16:12:11.9244237: GameVersionManager.cpp(364)] forge-40.2.0.json.libraries[10].rules: Expected array
+[Warning: 2023-10-29 16:12:11.9244413: GameVersionManager.cpp(368)] forge-40.2.0.json.libraries[10].serverreq: Unknown key
+[Warning: 2023-10-29 16:12:11.9244542: GameVersionManager.cpp(368)] forge-40.2.0.json.libraries[11].clientreq: Unknown key
+[Error: 2023-10-29 16:12:11.9245135: GameVersionManager.cpp(364)] forge-40.2.0.json.libraries[11].natives: Expected object
+[Error: 2023-10-29 16:12:11.9245356: GameVersionManager.cpp(364)] forge-40.2.0.json.libraries[11].rules: Expected array
+[Warning: 2023-10-29 16:12:11.9245514: GameVersionManager.cpp(368)] forge-40.2.0.json.libraries[11].serverreq: Unknown key
+[Warning: 2023-10-29 16:12:11.9245641: GameVersionManager.cpp(368)] forge-40.2.0.json.libraries[12].clientreq: Unknown key
+[Error: 2023-10-29 16:12:11.9245802: GameVersionManager.cpp(364)] forge-40.2.0.json.libraries[12].natives: Expected object
+[Error: 2023-10-29 16:12:11.9246011: GameVersionManager.cpp(364)] forge-40.2.0.json.libraries[12].rules: Expected array
+[Warning: 2023-10-29 16:12:11.9246167: GameVersionManager.cpp(368)] forge-40.2.0.json.libraries[12].serverreq: Unknown key
+[Warning: 2023-10-29 16:12:11.9246293: GameVersionManager.cpp(368)] forge-40.2.0.json.libraries[13].clientreq: Unknown key
+[Error: 2023-10-29 16:12:11.9246453: GameVersionManager.cpp(364)] forge-40.2.0.json.libraries[13].natives: Expected object
+[Error: 2023-10-29 16:12:11.9246643: GameVersionManager.cpp(364)] forge-40.2.0.json.libraries[13].rules: Expected array
+[Warning: 2023-10-29 16:12:11.9246817: GameVersionManager.cpp(368)] forge-40.2.0.json.libraries[13].serverreq: Unknown key
+[Warning: 2023-10-29 16:12:11.9246943: GameVersionManager.cpp(368)] forge-40.2.0.json.libraries[14].clientreq: Unknown key
+[Error: 2023-10-29 16:12:11.9247104: GameVersionManager.cpp(364)] forge-40.2.0.json.libraries[14].natives: Expected object
+[Error: 2023-10-29 16:12:11.9247297: GameVersionManager.cpp(364)] forge-40.2.0.json.libraries[14].rules: Expected array
+[Warning: 2023-10-29 16:12:11.9247453: GameVersionManager.cpp(368)] forge-40.2.0.json.libraries[14].serverreq: Unknown key
+[Warning: 2023-10-29 16:12:11.9247581: GameVersionManager.cpp(368)] forge-40.2.0.json.libraries[15].clientreq: Unknown key
+[Error: 2023-10-29 16:12:11.9247740: GameVersionManager.cpp(364)] forge-40.2.0.json.libraries[15].natives: Expected object
+[Error: 2023-10-29 16:12:11.9247950: GameVersionManager.cpp(364)] forge-40.2.0.json.libraries[15].rules: Expected array
+[Warning: 2023-10-29 16:12:11.9248105: GameVersionManager.cpp(368)] forge-40.2.0.json.libraries[15].serverreq: Unknown key
+[Warning: 2023-10-29 16:12:11.9248231: GameVersionManager.cpp(368)] forge-40.2.0.json.libraries[16].clientreq: Unknown key
+[Error: 2023-10-29 16:12:11.9248391: GameVersionManager.cpp(364)] forge-40.2.0.json.libraries[16].natives: Expected object
+[Error: 2023-10-29 16:12:11.9248580: GameVersionManager.cpp(364)] forge-40.2.0.json.libraries[16].rules: Expected array
+[Warning: 2023-10-29 16:12:11.9248734: GameVersionManager.cpp(368)] forge-40.2.0.json.libraries[16].serverreq: Unknown key
+[Warning: 2023-10-29 16:12:11.9248878: GameVersionManager.cpp(368)] forge-40.2.0.json.libraries[17].clientreq: Unknown key
+[Error: 2023-10-29 16:12:11.9249038: GameVersionManager.cpp(364)] forge-40.2.0.json.libraries[17].natives: Expected object
+[Error: 2023-10-29 16:12:11.9249226: GameVersionManager.cpp(364)] forge-40.2.0.json.libraries[17].rules: Expected array
+[Warning: 2023-10-29 16:12:11.9249381: GameVersionManager.cpp(368)] forge-40.2.0.json.libraries[17].serverreq: Unknown key
+[Warning: 2023-10-29 16:12:11.9249537: GameVersionManager.cpp(368)] forge-40.2.0.json.libraries[18].clientreq: Unknown key
+[Error: 2023-10-29 16:12:11.9249811: GameVersionManager.cpp(364)] forge-40.2.0.json.libraries[18].natives: Expected object
+[Error: 2023-10-29 16:12:11.9250232: GameVersionManager.cpp(364)] forge-40.2.0.json.libraries[18].rules: Expected array
+[Warning: 2023-10-29 16:12:11.9250410: GameVersionManager.cpp(368)] forge-40.2.0.json.libraries[18].serverreq: Unknown key
+[Warning: 2023-10-29 16:12:11.9250537: GameVersionManager.cpp(368)] forge-40.2.0.json.libraries[19].clientreq: Unknown key
+[Error: 2023-10-29 16:12:11.9250693: GameVersionManager.cpp(364)] forge-40.2.0.json.libraries[19].natives: Expected object
+[Error: 2023-10-29 16:12:11.9250878: GameVersionManager.cpp(364)] forge-40.2.0.json.libraries[19].rules: Expected array
+[Warning: 2023-10-29 16:12:11.9251066: GameVersionManager.cpp(368)] forge-40.2.0.json.libraries[19].serverreq: Unknown key
+[Warning: 2023-10-29 16:12:11.9251219: GameVersionManager.cpp(368)] forge-40.2.0.json.libraries[1].clientreq: Unknown key
+[Error: 2023-10-29 16:12:11.9251398: GameVersionManager.cpp(364)] forge-40.2.0.json.libraries[1].natives: Expected object
+[Error: 2023-10-29 16:12:11.9251587: GameVersionManager.cpp(364)] forge-40.2.0.json.libraries[1].rules: Expected array
+[Warning: 2023-10-29 16:12:11.9251741: GameVersionManager.cpp(368)] forge-40.2.0.json.libraries[1].serverreq: Unknown key
+[Warning: 2023-10-29 16:12:11.9251867: GameVersionManager.cpp(368)] forge-40.2.0.json.libraries[20].clientreq: Unknown key
+[Error: 2023-10-29 16:12:11.9252024: GameVersionManager.cpp(364)] forge-40.2.0.json.libraries[20].natives: Expected object
+[Error: 2023-10-29 16:12:11.9252209: GameVersionManager.cpp(364)] forge-40.2.0.json.libraries[20].rules: Expected array
+[Warning: 2023-10-29 16:12:11.9252380: GameVersionManager.cpp(368)] forge-40.2.0.json.libraries[20].serverreq: Unknown key
+[Warning: 2023-10-29 16:12:11.9252504: GameVersionManager.cpp(368)] forge-40.2.0.json.libraries[21].clientreq: Unknown key
+[Error: 2023-10-29 16:12:11.9252662: GameVersionManager.cpp(364)] forge-40.2.0.json.libraries[21].natives: Expected object
+[Error: 2023-10-29 16:12:11.9252848: GameVersionManager.cpp(364)] forge-40.2.0.json.libraries[21].rules: Expected array
+[Warning: 2023-10-29 16:12:11.9253001: GameVersionManager.cpp(368)] forge-40.2.0.json.libraries[21].serverreq: Unknown key
+[Warning: 2023-10-29 16:12:11.9253125: GameVersionManager.cpp(368)] forge-40.2.0.json.libraries[22].clientreq: Unknown key
+[Error: 2023-10-29 16:12:11.9253298: GameVersionManager.cpp(364)] forge-40.2.0.json.libraries[22].natives: Expected object
+[Error: 2023-10-29 16:12:11.9253483: GameVersionManager.cpp(364)] forge-40.2.0.json.libraries[22].rules: Expected array
+[Warning: 2023-10-29 16:12:11.9253635: GameVersionManager.cpp(368)] forge-40.2.0.json.libraries[22].serverreq: Unknown key
+[Warning: 2023-10-29 16:12:11.9253757: GameVersionManager.cpp(368)] forge-40.2.0.json.libraries[23].clientreq: Unknown key
+[Error: 2023-10-29 16:12:11.9253913: GameVersionManager.cpp(364)] forge-40.2.0.json.libraries[23].natives: Expected object
+[Error: 2023-10-29 16:12:11.9254097: GameVersionManager.cpp(364)] forge-40.2.0.json.libraries[23].rules: Expected array
+[Warning: 2023-10-29 16:12:11.9254265: GameVersionManager.cpp(368)] forge-40.2.0.json.libraries[23].serverreq: Unknown key
+[Warning: 2023-10-29 16:12:11.9254392: GameVersionManager.cpp(368)] forge-40.2.0.json.libraries[24].clientreq: Unknown key
+[Error: 2023-10-29 16:12:11.9254546: GameVersionManager.cpp(364)] forge-40.2.0.json.libraries[24].natives: Expected object
+[Error: 2023-10-29 16:12:11.9254730: GameVersionManager.cpp(364)] forge-40.2.0.json.libraries[24].rules: Expected array
+[Warning: 2023-10-29 16:12:11.9254880: GameVersionManager.cpp(368)] forge-40.2.0.json.libraries[24].serverreq: Unknown key
+[Warning: 2023-10-29 16:12:11.9255005: GameVersionManager.cpp(368)] forge-40.2.0.json.libraries[2].clientreq: Unknown key
+[Error: 2023-10-29 16:12:11.9255162: GameVersionManager.cpp(364)] forge-40.2.0.json.libraries[2].natives: Expected object
+[Error: 2023-10-29 16:12:11.9255365: GameVersionManager.cpp(364)] forge-40.2.0.json.libraries[2].rules: Expected array
+[Warning: 2023-10-29 16:12:11.9255516: GameVersionManager.cpp(368)] forge-40.2.0.json.libraries[2].serverreq: Unknown key
+[Warning: 2023-10-29 16:12:11.9255641: GameVersionManager.cpp(368)] forge-40.2.0.json.libraries[3].clientreq: Unknown key
+[Error: 2023-10-29 16:12:11.9255799: GameVersionManager.cpp(364)] forge-40.2.0.json.libraries[3].natives: Expected object
+[Error: 2023-10-29 16:12:11.9255983: GameVersionManager.cpp(364)] forge-40.2.0.json.libraries[3].rules: Expected array
+[Warning: 2023-10-29 16:12:11.9256152: GameVersionManager.cpp(368)] forge-40.2.0.json.libraries[3].serverreq: Unknown key
+[Warning: 2023-10-29 16:12:11.9256292: GameVersionManager.cpp(368)] forge-40.2.0.json.libraries[4].clientreq: Unknown key
+[Error: 2023-10-29 16:12:11.9256457: GameVersionManager.cpp(364)] forge-40.2.0.json.libraries[4].natives: Expected object
+[Error: 2023-10-29 16:12:11.9256642: GameVersionManager.cpp(364)] forge-40.2.0.json.libraries[4].rules: Expected array
+[Warning: 2023-10-29 16:12:11.9256792: GameVersionManager.cpp(368)] forge-40.2.0.json.libraries[4].serverreq: Unknown key
+[Warning: 2023-10-29 16:12:11.9256915: GameVersionManager.cpp(368)] forge-40.2.0.json.libraries[5].clientreq: Unknown key
+[Error: 2023-10-29 16:12:11.9257070: GameVersionManager.cpp(364)] forge-40.2.0.json.libraries[5].natives: Expected object
+[Error: 2023-10-29 16:12:11.9257273: GameVersionManager.cpp(364)] forge-40.2.0.json.libraries[5].rules: Expected array
+[Warning: 2023-10-29 16:12:11.9257425: GameVersionManager.cpp(368)] forge-40.2.0.json.libraries[5].serverreq: Unknown key
+[Warning: 2023-10-29 16:12:11.9257549: GameVersionManager.cpp(368)] forge-40.2.0.json.libraries[6].clientreq: Unknown key
+[Error: 2023-10-29 16:12:11.9257705: GameVersionManager.cpp(364)] forge-40.2.0.json.libraries[6].natives: Expected object
+[Error: 2023-10-29 16:12:11.9257899: GameVersionManager.cpp(364)] forge-40.2.0.json.libraries[6].rules: Expected array
+[Warning: 2023-10-29 16:12:11.9258053: GameVersionManager.cpp(368)] forge-40.2.0.json.libraries[6].serverreq: Unknown key
+[Warning: 2023-10-29 16:12:11.9258196: GameVersionManager.cpp(368)] forge-40.2.0.json.libraries[7].clientreq: Unknown key
+[Error: 2023-10-29 16:12:11.9258352: GameVersionManager.cpp(364)] forge-40.2.0.json.libraries[7].natives: Expected object
+[Error: 2023-10-29 16:12:11.9258537: GameVersionManager.cpp(364)] forge-40.2.0.json.libraries[7].rules: Expected array
+[Warning: 2023-10-29 16:12:11.9258690: GameVersionManager.cpp(368)] forge-40.2.0.json.libraries[7].serverreq: Unknown key
+[Warning: 2023-10-29 16:12:11.9258813: GameVersionManager.cpp(368)] forge-40.2.0.json.libraries[8].clientreq: Unknown key
+[Error: 2023-10-29 16:12:11.9258968: GameVersionManager.cpp(364)] forge-40.2.0.json.libraries[8].natives: Expected object
+[Error: 2023-10-29 16:12:11.9259170: GameVersionManager.cpp(364)] forge-40.2.0.json.libraries[8].rules: Expected array
+[Warning: 2023-10-29 16:12:11.9259327: GameVersionManager.cpp(368)] forge-40.2.0.json.libraries[8].serverreq: Unknown key
+[Warning: 2023-10-29 16:12:11.9259452: GameVersionManager.cpp(368)] forge-40.2.0.json.libraries[9].clientreq: Unknown key
+[Error: 2023-10-29 16:12:11.9259607: GameVersionManager.cpp(364)] forge-40.2.0.json.libraries[9].natives: Expected object
+[Error: 2023-10-29 16:12:11.9259800: GameVersionManager.cpp(364)] forge-40.2.0.json.libraries[9].rules: Expected array
+[Warning: 2023-10-29 16:12:11.9260039: GameVersionManager.cpp(368)] forge-40.2.0.json.libraries[9].serverreq: Unknown key
+[Info: 2023-10-29 16:12:11.9263150: GameVersionManager.cpp(354)] Parsing version forge-40.2.9
+[Info: 2023-10-29 16:12:11.9404529: NetQueue.cpp(213)] NetQueue: Starting net action https://launchermeta.mojang.com/mc/game/version_manifest_v2.json
+[Info: 2023-10-29 16:12:12.0318033: Xal.lib(0)] XAL: [op 61452104] Client operation StorageReadPlatformOperation continuing (promise 61594904)
+[Warning: 2023-10-29 16:12:12.0319343: Xal.lib(0)] XAL: Clock skew failed to be read: 0x89235107 "Client operation failed"
+[Warning: 2023-10-29 16:12:12.0319970: Xal.lib(0)] XAL: [op 61596584] Operation LoadClockSkew failed with result: 0x89235107 - Client operation failed
+[Info: 2023-10-29 16:12:12.0323981: Xal.lib(0)] XAL: [op 72442952] Operation LoadDeviceIdentity is starting
+[Info: 2023-10-29 16:12:12.0324251: Xal.lib(0)] XAL: [op 72442952]     with CV '1qO6ycwLdubZq0AU.0.0'
+[Info: 2023-10-29 16:12:12.0324518: Xal.lib(0)] XAL: [op 61451048] Client operation StorageReadPlatformOperation starting (promise 61595576)
+[Info: 2023-10-29 16:12:12.0324775: Xal.lib(0)] XAL: [op 61452104] Client operation StorageReadPlatformOperation destroyed
+[Info: 2023-10-29 16:12:12.0325173: Xal.lib(0)] XAL: [op 61451048] Client operation StorageReadPlatformOperation calling platform handler
+[Info: 2023-10-29 16:12:12.0325405: Xal.lib(0)] XAL: [op 61451048] Added operation as handle 03A9AB94 with type 6B2A2A5C
+[Info: 2023-10-29 16:12:12.0325585: XalStorage.cpp(314)] [op 03A9AB94] Xal Read callback - Started
+[Info: 2023-10-29 16:12:12.0325938: XalStorage.cpp(426)] [op 03A9AB94] Xal Read callback - Succeeded
+[Info: 2023-10-29 16:12:12.0328080: Xal.lib(0)] XAL: [op 61451048] Client operation StorageReadPlatformOperation platform handler reported completion status 'XalPlatformOperationResult_Success' (0)
+[Info: 2023-10-29 16:12:12.0328397: Xal.lib(0)] XAL: [op 61451048] Cleared operation handle 03A9AB94
+[Info: 2023-10-29 16:12:12.0328642: Xal.lib(0)] XAL: [op 61451048] Client operation StorageReadPlatformOperation succeeded
+[Info: 2023-10-29 16:12:12.1566021: Xal.lib(0)] XAL: [op 61451048] Client operation StorageReadPlatformOperation continuing (promise 61595576)
+[Info: 2023-10-29 16:12:12.1573593: Xal.lib(0)] XAL: [op 61451576] Client operation StorageReadPlatformOperation starting (promise 61596584)
+[Info: 2023-10-29 16:12:12.1574545: Xal.lib(0)] XAL: [op 61451048] Client operation StorageReadPlatformOperation destroyed
+[Info: 2023-10-29 16:12:12.1575555: Xal.lib(0)] XAL: [op 61451576] Client operation StorageReadPlatformOperation calling platform handler
+[Info: 2023-10-29 16:12:12.1576187: Xal.lib(0)] XAL: [op 61451576] Added operation as handle 03A9ADA4 with type 6B2A2A5C
+[Info: 2023-10-29 16:12:12.1576672: XalStorage.cpp(314)] [op 03A9ADA4] Xal Read callback - Started
+[Info: 2023-10-29 16:12:12.1591560: XalStorage.cpp(426)] [op 03A9ADA4] Xal Read callback - Succeeded
+[Info: 2023-10-29 16:12:12.1593640: Xal.lib(0)] XAL: [op 61451576] Client operation StorageReadPlatformOperation platform handler reported completion status 'XalPlatformOperationResult_Success' (0)
+[Info: 2023-10-29 16:12:12.1593903: Xal.lib(0)] XAL: [op 61451576] Cleared operation handle 03A9ADA4
+[Info: 2023-10-29 16:12:12.1594202: Xal.lib(0)] XAL: [op 61451576] Client operation StorageReadPlatformOperation succeeded
+[Info: 2023-10-29 16:12:12.2802992: Xal.lib(0)] XAL: [op 61451576] Client operation StorageReadPlatformOperation continuing (promise 61596584)
+[Info: 2023-10-29 16:12:12.2805549: Xal.lib(0)] XAL: [op 61453160] Client operation StorageReadPlatformOperation starting (promise 61597368)
+[Info: 2023-10-29 16:12:12.2806320: Xal.lib(0)] XAL: [op 61451576] Client operation StorageReadPlatformOperation destroyed
+[Info: 2023-10-29 16:12:12.2807162: Xal.lib(0)] XAL: [op 61453160] Client operation StorageReadPlatformOperation calling platform handler
+[Info: 2023-10-29 16:12:12.2807761: Xal.lib(0)] XAL: [op 61453160] Added operation as handle 03A9B3D4 with type 6B2A2A5C
+[Info: 2023-10-29 16:12:12.2808235: XalStorage.cpp(314)] [op 03A9B3D4] Xal Read callback - Started
+[Info: 2023-10-29 16:12:12.2821094: XalStorage.cpp(426)] [op 03A9B3D4] Xal Read callback - Succeeded
+[Info: 2023-10-29 16:12:12.2823920: Xal.lib(0)] XAL: [op 61453160] Client operation StorageReadPlatformOperation platform handler reported completion status 'XalPlatformOperationResult_Success' (0)
+[Info: 2023-10-29 16:12:12.2824207: Xal.lib(0)] XAL: [op 61453160] Cleared operation handle 03A9B3D4
+[Info: 2023-10-29 16:12:12.2824478: Xal.lib(0)] XAL: [op 61453160] Client operation StorageReadPlatformOperation succeeded
+[Info: 2023-10-29 16:12:12.4038838: Xal.lib(0)] XAL: [op 61453160] Client operation StorageReadPlatformOperation continuing (promise 61597368)
+[Info: 2023-10-29 16:12:12.4039903: Xal.lib(0)] XAL: [op 72442952] Operation LoadDeviceIdentity succeeded.
+[Info: 2023-10-29 16:12:12.4043307: Xal.lib(0)] XAL: [op 61596584] Operation NsalDb_LoadDefaultNsal is starting
+[Info: 2023-10-29 16:12:12.4043565: Xal.lib(0)] XAL: [op 61596584]     with CV '1qO6ycwLdubZq0AU.0.0'
+[Info: 2023-10-29 16:12:12.4045122: Xal.lib(0)] XAL: [op 61453160] Client operation StorageReadPlatformOperation destroyed
+[Info: 2023-10-29 16:12:12.4046482: NetQueue.cpp(213)] NetQueue: Starting net action title.mgt.xboxlive.com
+[Info: 2023-10-29 16:12:12.4238816: CurlNetQueue.cpp(578)] NetQueue: Primary ip: 13.107.213.44, Host: launchermeta.mojang.com
+[Info: 2023-10-29 16:12:12.4239949: NetQueue.cpp(102)] NetQueue: Action finished: https://launchermeta.mojang.com/mc/game/version_manifest_v2.json
+[Info: 2023-10-29 16:12:12.4240571: NetQueue.cpp(133)] Action finalized: https://launchermeta.mojang.com/mc/game/version_manifest_v2.json
+[Info: 2023-10-29 16:12:12.4242466: GameVersionManager.cpp(437)] Got available versions manifest from https://launchermeta.mojang.com/mc/game/version_manifest_v2.json
+[Info: 2023-10-29 16:12:12.4242725: CurlNetQueue.cpp(578)] NetQueue: Primary ip: 13.107.5.91, Host: www.xboxab.com
+[Info: 2023-10-29 16:12:12.4244299: NetQueue.cpp(102)] NetQueue: Action finished: https://www.xboxab.com/ab
+[Info: 2023-10-29 16:12:12.4245058: NetQueue.cpp(133)] Action finalized: https://www.xboxab.com/ab
+[Warning: 2023-10-29 16:12:12.4850196: XalApi.cpp(132)] Failed to register user callback: -2147024846
+[Info: 2023-10-29 16:12:12.4854725: CoreFileUtils.cpp(13)] File %USERPROFILE%\curseforge\minecraft\Install\launcher_custom_skins.json doesn't exist. Not loading.
+[Info: 2023-10-29 16:12:12.4855127: SkinManager.cpp(428)] Unable to load skins file. Checking for old file version...
+[Info: 2023-10-29 16:12:12.4855645: SkinManager.cpp(437)] Failed to read deprecated skins file: %USERPROFILE%\curseforge\minecraft\Install\launcher_skins.json Errno such file or directory
+[Info: 2023-10-29 16:12:12.4857551: ProductInstance.cpp(133)] Do not allow remote update check, time is not due, [dungeons-retail-Piston]
+[Info: 2023-10-29 16:12:12.4863730: NetQueue.cpp(213)] NetQueue: Starting net action https://piston-meta.mojang.com/v1/products/dungeons/f4c685912beb55eb2d5c9e0713fe1195164bba27/windows-x64.json
+[Info: 2023-10-29 16:12:12.4868928: CefUI.cpp(123)] Web cache is compatible with current CEF version.
+[Info: 2023-10-29 16:12:12.4869625: CefUI.cpp(145)] Web cache path: %USERPROFILE%\curseforge\minecraft\Install\webcache2
+[Info: 2023-10-29 16:12:12.5118012: LauncherAppBrowser.cpp(82)] Will launch a Chromium subprocess with command line string: "<APPDIR>\Install\minecraft.exe" --type=gpu-process --no-sandbox --log-severity=info --lang=en-US --user-data-dir="%USERPROFILE%\AppData\Local\CEF\User Data" --launcherui --workdir="<APPDIR>\Install" /prefetch:2
+[Info: 2023-10-29 16:12:12.5259637: LauncherAppBrowser.cpp(63)] Work dir is %USERPROFILE%\curseforge\minecraft\Install
+[Info: 2023-10-29 16:12:12.5262739: main_context.cpp(132)] CEF initialized successfully.
+[Info: 2023-10-29 16:12:12.5263364: main_context.cpp(134)] CEF version: 99.2.14+g3f796b8+chromium-99.0.4844.84
+[Info: 2023-10-29 16:12:12.5264844: UserIdentity.cpp(168)] Starting auto sign in
+[Info: 2023-10-29 16:12:12.5823208: root_window_manager.cpp(57)] Main window has been opened: 048FF898
+[Info: 2023-10-29 16:12:12.5850981: LauncherAppBrowser.cpp(82)] Will launch a Chromium subprocess with command line string: "<APPDIR>\Install\minecraft.exe" --type=utility --utility-sub-type=storage.mojom.StorageService --lang=en-US --service-sandbox-type=utility --no-sandbox --log-severity=info --lang=en-US --user-data-dir="%USERPROFILE%\AppData\Local\CEF\User Data" --launcherui --workdir="<APPDIR>\Install" /prefetch:8
+[Info: 2023-10-29 16:12:12.5857562: LauncherAppBrowser.cpp(82)] Will launch a Chromium subprocess with command line string: "<APPDIR>\Install\minecraft.exe" --type=utility --utility-sub-type=network.mojom.NetworkService --lang=en-US --service-sandbox-type=none --no-sandbox --log-severity=info --lang=en-US --user-data-dir="%USERPROFILE%\AppData\Local\CEF\User Data" --launcherui --workdir="<APPDIR>\Install" /prefetch:8
+[Info: 2023-10-29 16:12:12.6016627: LauncherAppBrowser.cpp(82)] Will launch a Chromium subprocess with command line string: "<APPDIR>\Install\minecraft.exe" --type=renderer --log-severity=info --user-data-dir="%USERPROFILE%\AppData\Local\CEF\User Data" --launcherui --workdir="<APPDIR>\Install"
+[Info: 2023-10-29 16:12:12.6022409: LauncherAppBrowser.cpp(82)] Will launch a Chromium subprocess with command line string: "<APPDIR>\Install\minecraft.exe" --type=renderer --log-severity=info --user-data-dir="%USERPROFILE%\AppData\Local\CEF\User Data" --launcherui --workdir="<APPDIR>\Install"
+[Info: 2023-10-29 16:12:12.7652364: CurlNetQueue.cpp(578)] NetQueue: Primary ip: 13.107.213.44, Host: piston-meta.mojang.com
+[Info: 2023-10-29 16:12:12.7653284: NetQueue.cpp(102)] NetQueue: Action finished: https://piston-meta.mojang.com/v1/products/dungeons/f4c685912beb55eb2d5c9e0713fe1195164bba27/windows-x64.json
+[Info: 2023-10-29 16:12:12.7653738: NetQueue.cpp(133)] Action finalized: https://piston-meta.mojang.com/v1/products/dungeons/f4c685912beb55eb2d5c9e0713fe1195164bba27/windows-x64.json
+[Info: 2023-10-29 16:12:12.7657659: NetQueue.cpp(213)] NetQueue: Starting net action https://piston-meta.mojang.com/v1/packages/be87f824e3d0be9ad76131d649d14c2878d39fa7/manifest.json
+[Info: 2023-10-29 16:12:12.8751672: CurlNetQueue.cpp(578)] NetQueue: Primary ip: 13.107.213.44, Host: piston-meta.mojang.com
+[Info: 2023-10-29 16:12:12.8752538: NetQueue.cpp(102)] NetQueue: Action finished: https://piston-meta.mojang.com/v1/packages/be87f824e3d0be9ad76131d649d14c2878d39fa7/manifest.json
+[Info: 2023-10-29 16:12:12.8752982: NetQueue.cpp(133)] Action finalized: https://piston-meta.mojang.com/v1/packages/be87f824e3d0be9ad76131d649d14c2878d39fa7/manifest.json
+[Info: 2023-10-29 16:12:12.8807429: ProductInstance.cpp(154)] Committed remote update check [dungeons-retail-Piston]
+[Info: 2023-10-29 16:12:13.1060690: ProductInstance.cpp(133)] Do not allow remote update check, time is not due, [dungeons-retail-Piston]
+[Info: 2023-10-29 16:12:12.6605813: LauncherMain.cpp(108)] Initiated models
+[Info: 2023-10-29 16:12:12.6619899: LauncherController.cpp(661)] Constructing launcher controller with workDir: C:\...\.minecraft, isActive: 0
+[Info: 2023-10-29 16:12:12.6755783: LauncherAppRenderer.cpp(175)] Javascript bridge extended in OnWebKitInitialized.
+[Info: 2023-10-29 16:12:13.2341470: LauncherAppRenderer.cpp(323)] OnContextCreated: main frame. Url=https://mojang/launcher/index.html browser id=1
+[Info: 2023-10-29 16:12:13.2342042: LauncherAppRenderer.cpp(335)] OnContextCreated: Create JS bindings in main browser.
+[Info: 2023-10-29 16:12:13.2363170: LauncherAppRenderer.cpp(522)] Javascript bridge extended in OnContextCreated.
+[Info: 2023-10-29 16:12:13.2481030: CurlNetQueue.cpp(578)] NetQueue: Primary ip: 40.122.46.48, Host: title.mgt.xboxlive.com
+[Info: 2023-10-29 16:12:13.2482082: NetQueue.cpp(102)] NetQueue: Action finished: title.mgt.xboxlive.com
+[Info: 2023-10-29 16:12:13.2483498: NetQueue.cpp(133)] Action finalized: title.mgt.xboxlive.com
+[Info: 2023-10-29 16:12:13.2630434: Xal.lib(0)] XAL: [op 61596584] Operation NsalDb_LoadDefaultNsal succeeded.
+[Info: 2023-10-29 16:12:13.2633047: Xal.lib(0)] XAL: [op 190599144] Operation GetDtoken is starting
+[Info: 2023-10-29 16:12:13.2633406: Xal.lib(0)] XAL: [op 190599144]     with CV '1qO6ycwLdubZq0AU.0.1'
+[Info: 2023-10-29 16:12:13.2633694: Xal.lib(0)] XAL: >>> Xal::Auth::InMemoryXboxTokenCache::GetTokenInternal (0000FF253A20295C)
+[Info: 2023-10-29 16:12:13.2634093: Xal.lib(0)] XAL: Returning requested cache: [hasSignInDisplayClaims:false identityType:Dtoken, relyingParty:http://auth.xboxlive.com, subRelyingParty:, tokenType:JWT]:{HasSignInDisplayClaims:false hasData:true, isValid:true, xerr:0, expiry:2023-11-09T12:17:55.7520000Z, now:2023-10-29T16:12:13.2630000Z, systemNow:2023-10-29T16:12:13.2630000Z}
+[Info: 2023-10-29 16:12:13.2634395: Xal.lib(0)] XAL: <<< Xal::Auth::InMemoryXboxTokenCache::GetTokenInternal (0000FF253A20295C)
+[Info: 2023-10-29 16:12:13.2634638: Xal.lib(0)] XAL: [op 190599144] Operation GetDtoken succeeded.
+[Info: 2023-10-29 16:12:13.2635838: Xal.lib(0)] XAL: [op 72134144] Operation InitializeTokenStack succeeded.
+[Info: 2023-10-29 16:12:13.2636952: Xal.lib(0)] XAL: [op 61596472] Operation InitializeComponents succeeded.
+[Info: 2023-10-29 16:12:13.2638141: Xal.lib(0)] XAL: [op 73910008] Operation TryAddFirstUserSilently is starting
+[Info: 2023-10-29 16:12:13.2638416: Xal.lib(0)] XAL: [op 73910008]     with CV '1qO6ycwLdubZq0AU.5.0'
+[Info: 2023-10-29 16:12:13.2641660: Xal.lib(0)] XAL: [op 73981704] Operation GetDefaultUser is starting
+[Info: 2023-10-29 16:12:13.2641978: Xal.lib(0)] XAL: [op 73981704]     with CV '1qO6ycwLdubZq0AU.5.0'
+[Info: 2023-10-29 16:12:13.2643108: Xal.lib(0)] XAL: [op 72136520] Operation InitializeTokenStack is starting
+[Info: 2023-10-29 16:12:13.2643391: Xal.lib(0)] XAL: [op 72136520]     with CV '1qO6ycwLdubZq0AU.5.0'
+[Info: 2023-10-29 16:12:13.2644503: Xal.lib(0)] XAL: [op 76502856] Operation LoadClockSkew is starting
+[Info: 2023-10-29 16:12:13.2644756: Xal.lib(0)] XAL: [op 76502856]     with CV '1qO6ycwLdubZq0AU.5.0'
+[Info: 2023-10-29 16:12:13.2645060: Xal.lib(0)] XAL: [op 190385096] Client operation StorageReadPlatformOperation starting (promise 76502632)
+[Info: 2023-10-29 16:12:13.2645437: Xal.lib(0)] XAL: [op 190385096] Client operation StorageReadPlatformOperation calling platform handler
+[Info: 2023-10-29 16:12:13.2645711: Xal.lib(0)] XAL: [op 190385096] Added operation as handle 0B590C34 with type 6B2A2A5C
+[Info: 2023-10-29 16:12:13.2645932: XalStorage.cpp(314)] [op 0B590C34] Xal Read callback - Started
+[Info: 2023-10-29 16:12:13.2646211: XalStorage.cpp(414)] [op 0B590C34] Xal Read callback - Failed
+[Info: 2023-10-29 16:12:13.2648123: Xal.lib(0)] XAL: [op 190385096] Client operation StorageReadPlatformOperation platform handler reported completion status 'XalPlatformOperationResult_Failure' (1)
+[Info: 2023-10-29 16:12:13.2648412: Xal.lib(0)] XAL: [op 190385096] Cleared operation handle 0B590C34
+[Info: 2023-10-29 16:12:13.2648664: Xal.lib(0)] XAL: [op 190385096] Client operation StorageReadPlatformOperation failed with result 0x89235107: Client operation failed
+[Info: 2023-10-29 16:12:13.3227916: ProductInstance.cpp(109)] Allow remote update check, no entry found [java-retail-Piston]
+[Info: 2023-10-29 16:12:13.3594975: LauncherAppRenderer.cpp(292)] MCLauncher.triggerUpdateEvent("coreEvent.gameVersions");
+[Info: 2023-10-29 16:12:13.3623509: LauncherAppRenderer.cpp(292)] MCLauncher.triggerUpdateEvent("coreEvent.versions");
+[Info: 2023-10-29 16:12:13.3631873: LauncherAppRenderer.cpp(292)] MCLauncher.triggerUpdateEvent("coreEvent.credits");
+[Info: 2023-10-29 16:12:13.3633590: LauncherAppRenderer.cpp(292)] MCLauncher.triggerUpdateEvent("coreEvent.constants");
+[Info: 2023-10-29 16:12:13.3637630: LauncherAppRenderer.cpp(292)] MCLauncher.triggerUpdateEvent("coreEvent.configurationData");
+[Info: 2023-10-29 16:12:13.3639800: LauncherAppRenderer.cpp(292)] MCLauncher.triggerUpdateEvent("coreEvent.launcherSettings");
+[Info: 2023-10-29 16:12:13.3642005: LauncherAppRenderer.cpp(292)] MCLauncher.triggerUpdateEvent("coreEvent.systemInfo");
+[Info: 2023-10-29 16:12:13.3648560: LauncherAppRenderer.cpp(292)] MCLauncher.triggerUpdateEvent("coreEvent.productInfo");
+[Info: 2023-10-29 16:12:13.3719979: LauncherAppRenderer.cpp(292)] MCLauncher.triggerUpdateEvent("coreEvent.skins");
+[Info: 2023-10-29 16:12:13.3723696: LauncherAppRenderer.cpp(292)] MCLauncher.triggerUpdateEvent("coreEvent.treatmentTags");
+[Info: 2023-10-29 16:12:13.3726971: LauncherAppRenderer.cpp(292)] MCLauncher.triggerUpdateEvent("coreEvent.quickPlayData");
+[Info: 2023-10-29 16:12:13.3740058: LauncherAppRenderer.cpp(292)] MCLauncher.triggerUpdateEvent("coreEvent.modelInfo");
+[Info: 2023-10-29 16:12:13.3741540: LauncherAppRenderer.cpp(292)] MCLauncher.triggerUpdateEvent("coreEvent.downloads");
+[Info: 2023-10-29 16:12:13.3849040: Xal.lib(0)] XAL: [op 190385096] Client operation StorageReadPlatformOperation continuing (promise 76502632)
+[Warning: 2023-10-29 16:12:13.3850007: Xal.lib(0)] XAL: Clock skew failed to be read: 0x89235107 "Client operation failed"
+[Warning: 2023-10-29 16:12:13.3850398: Xal.lib(0)] XAL: [op 76502856] Operation LoadClockSkew failed with result: 0x89235107 - Client operation failed
+[Info: 2023-10-29 16:12:13.3852642: Xal.lib(0)] XAL: [op 76569696] Operation LoadDeviceIdentity is starting
+[Info: 2023-10-29 16:12:13.3852972: Xal.lib(0)] XAL: [op 76569696]     with CV '1qO6ycwLdubZq0AU.5.0'
+[Info: 2023-10-29 16:12:13.3853217: Xal.lib(0)] XAL: [op 76569696] Operation LoadDeviceIdentity succeeded.
+[Info: 2023-10-29 16:12:13.3854254: Xal.lib(0)] XAL: [op 72136520] Operation InitializeTokenStack succeeded.
+[Info: 2023-10-29 16:12:13.3856261: Xal.lib(0)] XAL: [op 76551576] Operation LoadDefaultUser is starting
+[Info: 2023-10-29 16:12:13.3856548: Xal.lib(0)] XAL: [op 76551576]     with CV '1qO6ycwLdubZq0AU.5.0'
+[Info: 2023-10-29 16:12:13.3856882: Xal.lib(0)] XAL: [op 190381928] Client operation StorageReadPlatformOperation starting (promise 76502968)
+[Info: 2023-10-29 16:12:13.3857248: Xal.lib(0)] XAL: [op 190385096] Client operation StorageReadPlatformOperation destroyed
+[Info: 2023-10-29 16:12:13.3857658: Xal.lib(0)] XAL: [op 190381928] Client operation StorageReadPlatformOperation calling platform handler
+[Info: 2023-10-29 16:12:13.3857956: Xal.lib(0)] XAL: [op 190381928] Added operation as handle 0B58FFD4 with type 6B2A2A5C
+[Info: 2023-10-29 16:12:13.3858169: XalStorage.cpp(314)] [op 0B58FFD4] Xal Read callback - Started
+[Info: 2023-10-29 16:12:13.3994088: XalStorage.cpp(426)] [op 0B58FFD4] Xal Read callback - Succeeded
+[Info: 2023-10-29 16:12:13.3996379: Xal.lib(0)] XAL: [op 190381928] Client operation StorageReadPlatformOperation platform handler reported completion status 'XalPlatformOperationResult_Success' (0)
+[Info: 2023-10-29 16:12:13.3996725: Xal.lib(0)] XAL: [op 190381928] Cleared operation handle 0B58FFD4
+[Info: 2023-10-29 16:12:13.3996998: Xal.lib(0)] XAL: [op 190381928] Client operation StorageReadPlatformOperation succeeded
+[Info: 2023-10-29 16:12:13.4948327: LauncherAppRenderer.cpp(292)] MCLauncher.triggerUpdateEvent("coreEvent.gameVersions");
+[Info: 2023-10-29 16:12:13.4977379: LauncherAppRenderer.cpp(292)] MCLauncher.triggerUpdateEvent("coreEvent.gameInstances");
+[Info: 2023-10-29 16:12:13.4979555: LauncherAppRenderer.cpp(292)] MCLauncher.triggerUpdateEvent("coreEvent.versions");
+[Info: 2023-10-29 16:12:13.4989026: LauncherAppRenderer.cpp(292)] MCLauncher.triggerUpdateEvent("coreEvent.credits");
+[Info: 2023-10-29 16:12:13.4990522: LauncherAppRenderer.cpp(292)] MCLauncher.triggerUpdateEvent("coreEvent.constants");
+[Info: 2023-10-29 16:12:13.4994314: LauncherAppRenderer.cpp(292)] MCLauncher.triggerUpdateEvent("coreEvent.configurationData");
+[Info: 2023-10-29 16:12:13.4995736: LauncherAppRenderer.cpp(292)] MCLauncher.triggerUpdateEvent("coreEvent.users");
+[Info: 2023-10-29 16:12:13.4997517: LauncherAppRenderer.cpp(292)] MCLauncher.triggerUpdateEvent("coreEvent.launcherSettings");
+[Info: 2023-10-29 16:12:13.4999149: LauncherAppRenderer.cpp(292)] MCLauncher.triggerUpdateEvent("coreEvent.systemInfo");
+[Info: 2023-10-29 16:12:13.5005370: LauncherAppRenderer.cpp(292)] MCLauncher.triggerUpdateEvent("coreEvent.productInfo");
+[Info: 2023-10-29 16:12:13.5093481: LauncherAppRenderer.cpp(292)] MCLauncher.triggerUpdateEvent("coreEvent.skins");
+[Info: 2023-10-29 16:12:13.5096912: LauncherAppRenderer.cpp(292)] MCLauncher.triggerUpdateEvent("coreEvent.volumes");
+[Info: 2023-10-29 16:12:13.5098380: LauncherAppRenderer.cpp(292)] MCLauncher.triggerUpdateEvent("coreEvent.msiPatch");
+[Info: 2023-10-29 16:12:13.5100247: LauncherAppRenderer.cpp(292)] MCLauncher.triggerUpdateEvent("coreEvent.treatmentTags");
+[Info: 2023-10-29 16:12:13.5103141: LauncherAppRenderer.cpp(292)] MCLauncher.triggerUpdateEvent("coreEvent.quickPlayData");
+[Info: 2023-10-29 16:12:13.5113412: LauncherAppRenderer.cpp(292)] MCLauncher.triggerUpdateEvent("coreEvent.productInfo");
+[Info: 2023-10-29 16:12:13.5114889: LauncherAppRenderer.cpp(292)] MCLauncher.triggerUpdateEvent("coreEvent.gameInstances");
+[Info: 2023-10-29 16:12:13.5120951: LauncherAppRenderer.cpp(292)] MCLauncher.triggerUpdateEvent("coreEvent.productInfo");
+[Info: 2023-10-29 16:12:13.5128030: LauncherAppRenderer.cpp(292)] MCLauncher.triggerUpdateEvent("coreEvent.productInfo");
+[Info: 2023-10-29 16:12:13.5129412: LauncherAppRenderer.cpp(292)] MCLauncher.triggerUpdateEvent("coreEvent.gameInstances");
+[Info: 2023-10-29 16:12:13.5135779: LauncherAppRenderer.cpp(292)] MCLauncher.triggerUpdateEvent("coreEvent.productInfo");
+[Info: 2023-10-29 16:12:13.5267289: Xal.lib(0)] XAL: [op 190381928] Client operation StorageReadPlatformOperation continuing (promise 76502968)
+[Info: 2023-10-29 16:12:13.5268538: Xal.lib(0)] XAL: [op 190384744] Client operation StorageReadPlatformOperation starting (promise 76502072)
+[Info: 2023-10-29 16:12:13.5268918: Xal.lib(0)] XAL: [op 190381928] Client operation StorageReadPlatformOperation destroyed
+[Info: 2023-10-29 16:12:13.5269329: Xal.lib(0)] XAL: [op 190384744] Client operation StorageReadPlatformOperation calling platform handler
+[Info: 2023-10-29 16:12:13.5269608: Xal.lib(0)] XAL: [op 190384744] Added operation as handle 0B590AD4 with type 6B2A2A5C
+[Info: 2023-10-29 16:12:13.5269830: XalStorage.cpp(314)] [op 0B590AD4] Xal Read callback - Started
+[Info: 2023-10-29 16:12:13.5279990: XalStorage.cpp(426)] [op 0B590AD4] Xal Read callback - Succeeded
+[Info: 2023-10-29 16:12:13.5283706: Xal.lib(0)] XAL: [op 190384744] Client operation StorageReadPlatformOperation platform handler reported completion status 'XalPlatformOperationResult_Success' (0)
+[Info: 2023-10-29 16:12:13.5284055: Xal.lib(0)] XAL: [op 190384744] Cleared operation handle 0B590AD4
+[Info: 2023-10-29 16:12:13.5284345: Xal.lib(0)] XAL: [op 190384744] Client operation StorageReadPlatformOperation succeeded
+[Info: 2023-10-29 16:12:13.5421628: ProductInstance.cpp(109)] Allow remote update check, no entry found [java-retail-Piston]
+[Info: 2023-10-29 16:12:13.6496369: Xal.lib(0)] XAL: [op 190384744] Client operation StorageReadPlatformOperation continuing (promise 76502072)
+[Info: 2023-10-29 16:12:13.6497635: Xal.lib(0)] XAL: [op 76551576] Operation LoadDefaultUser succeeded.
+[Info: 2023-10-29 16:12:13.6500269: Xal.lib(0)] XAL: [op 79681656] Operation LoadTokensForUser is starting
+[Info: 2023-10-29 16:12:13.6500668: Xal.lib(0)] XAL: [op 79681656]     with CV '1qO6ycwLdubZq0AU.5.0'
+[Info: 2023-10-29 16:12:13.6500983: Xal.lib(0)] XAL: [op 190385096] Client operation StorageReadPlatformOperation starting (promise 76503752)
+[Info: 2023-10-29 16:12:13.6501315: Xal.lib(0)] XAL: [op 190384744] Client operation StorageReadPlatformOperation destroyed
+[Info: 2023-10-29 16:12:13.6501705: Xal.lib(0)] XAL: [op 190385096] Client operation StorageReadPlatformOperation calling platform handler
+[Info: 2023-10-29 16:12:13.6502040: Xal.lib(0)] XAL: [op 190385096] Added operation as handle 0B590C34 with type 6B2A2A5C
+[Info: 2023-10-29 16:12:13.6502315: XalStorage.cpp(314)] [op 0B590C34] Xal Read callback - Started
+[Info: 2023-10-29 16:12:13.6527643: XalStorage.cpp(426)] [op 0B590C34] Xal Read callback - Succeeded
+[Info: 2023-10-29 16:12:13.6530990: Xal.lib(0)] XAL: [op 190385096] Client operation StorageReadPlatformOperation platform handler reported completion status 'XalPlatformOperationResult_Success' (0)
+[Info: 2023-10-29 16:12:13.6531591: Xal.lib(0)] XAL: [op 190385096] Cleared operation handle 0B590C34
+[Info: 2023-10-29 16:12:13.6531935: Xal.lib(0)] XAL: [op 190385096] Client operation StorageReadPlatformOperation succeeded
+[Info: 2023-10-29 16:12:13.7447648: ControllerInterface.cpp(106)] Running method getStore
+[Info: 2023-10-29 16:12:13.7450647: ControllerInterface.cpp(106)] Running method getContentfulEnvironment
+[Info: 2023-10-29 16:12:13.7498566: ControllerInterface.cpp(106)] Running method setStore
+[Info: 2023-10-29 16:12:13.7507679: client_handler.cpp(429)] Handling PostLegacyTelemetryEvent message
+[Info: 2023-10-29 16:12:13.7511403: ControllerInterface.cpp(106)] Running method telemetryEventUiAction
+[Info: 2023-10-29 16:12:13.7525427: NetQueue.cpp(213)] NetQueue: Starting net action https://launchercontent.mojang.com/promotionalCalendars.json
+[Info: 2023-10-29 16:12:13.7557850: ControllerInterface.cpp(106)] Running method getStore
+[Info: 2023-10-29 16:12:13.7577984: ControllerInterface.cpp(106)] Running method setStore
+[Info: 2023-10-29 16:12:13.7754866: Xal.lib(0)] XAL: [op 190385096] Client operation StorageReadPlatformOperation continuing (promise 76503752)
+[Info: 2023-10-29 16:12:13.7758940: Xal.lib(0)] XAL: [op 79681656] Operation LoadTokensForUser succeeded.
+[Info: 2023-10-29 16:12:13.7765889: Xal.lib(0)] XAL: [op 72404128] Operation GetXtoken is starting
+[Info: 2023-10-29 16:12:13.7766788: Xal.lib(0)] XAL: [op 72404128]     with CV '1qO6ycwLdubZq0AU.5.0'
+[Info: 2023-10-29 16:12:13.7770816: Xal.lib(0)] XAL: [op 72135728] Operation InitializeTokenStack is starting
+[Info: 2023-10-29 16:12:13.7771634: Xal.lib(0)] XAL: [op 72135728]     with CV '1qO6ycwLdubZq0AU.5.0'
+[Info: 2023-10-29 16:12:13.7774704: Xal.lib(0)] XAL: [op 76503640] Operation LoadClockSkew is starting
+[Info: 2023-10-29 16:12:13.7775528: Xal.lib(0)] XAL: [op 76503640]     with CV '1qO6ycwLdubZq0AU.5.0'
+[Info: 2023-10-29 16:12:13.7776405: Xal.lib(0)] XAL: [op 190386328] Client operation StorageReadPlatformOperation starting (promise 76504984)
+[Info: 2023-10-29 16:12:13.7777359: Xal.lib(0)] XAL: [op 190385096] Client operation StorageReadPlatformOperation destroyed
+[Info: 2023-10-29 16:12:13.7777920: Xal.lib(0)] XAL: [op 190386328] Client operation StorageReadPlatformOperation calling platform handler
+[Info: 2023-10-29 16:12:13.7778275: Xal.lib(0)] XAL: [op 190386328] Added operation as handle 0B591104 with type 6B2A2A5C
+[Info: 2023-10-29 16:12:13.7778567: XalStorage.cpp(314)] [op 0B591104] Xal Read callback - Started
+[Info: 2023-10-29 16:12:13.7778857: XalStorage.cpp(414)] [op 0B591104] Xal Read callback - Failed
+[Info: 2023-10-29 16:12:13.7780845: Xal.lib(0)] XAL: [op 190386328] Client operation StorageReadPlatformOperation platform handler reported completion status 'XalPlatformOperationResult_Failure' (1)
+[Info: 2023-10-29 16:12:13.7781245: Xal.lib(0)] XAL: [op 190386328] Cleared operation handle 0B591104
+[Info: 2023-10-29 16:12:13.7781594: Xal.lib(0)] XAL: [op 190386328] Client operation StorageReadPlatformOperation failed with result 0x89235107: Client operation failed
+[Info: 2023-10-29 16:12:13.7986307: ControllerInterface.cpp(106)] Running method setStore
+[Info: 2023-10-29 16:12:13.7989492: ControllerInterface.cpp(106)] Running method checkForUpdates
+[Info: 2023-10-29 16:12:13.8009841: ControllerInterface.cpp(106)] Running method setStore
+[Info: 2023-10-29 16:12:13.8011758: client_handler.cpp(429)] Handling PostLegacyTelemetryEvent message
+[Info: 2023-10-29 16:12:13.8014577: ControllerInterface.cpp(106)] Running method telemetryEventUiAction
+[Warning: 2023-10-29 16:12:13.8018124: MSIPatchInstaller.cpp(74)] Unable to determine product id for minecraft launcher installation.
+[Warning: 2023-10-29 16:12:13.8018683: MSIPatchInstaller.cpp(79)] Unable to determine the version of product 
+[Info: 2023-10-29 16:12:13.8018952: KeyMakerCache.cpp(213)] Initializing KeyMaker response cache...
+[Info: 2023-10-29 16:12:13.8019217: KeyMakerCache.cpp(219)] KeyMaker response cache initialized.
+[Info: 2023-10-29 16:12:13.8019880: LauncherController.cpp(1101)] Checking KeyMaker for updates...
+[Info: 2023-10-29 16:12:13.8020105: KeyMakerCache.cpp(213)] Initializing KeyMaker response cache...
+[Info: 2023-10-29 16:12:13.8020297: KeyMakerCache.cpp(215)] KeyMaker response cache already initialized.
+[Warning: 2023-10-29 16:12:13.8021367: MSIPatchInstaller.cpp(402)] Unable to determine patch product id and/or version. Aborting patch download.
+[Info: 2023-10-29 16:12:13.8021727: ControllerInterface.cpp(106)] Running method setStore
+[Info: 2023-10-29 16:12:13.8026221: ControllerInterface.cpp(106)] Running method setStore
+[Info: 2023-10-29 16:12:13.8031486: ControllerInterface.cpp(106)] Running method setStore
+[Info: 2023-10-29 16:12:13.8041871: ControllerInterface.cpp(106)] Running method setStore
+[Info: 2023-10-29 16:12:13.8051571: ControllerInterface.cpp(106)] Running method getContentfulEnvironment
+[Info: 2023-10-29 16:12:13.8057927: ControllerInterface.cpp(106)] Running method getAccountData
+[Info: 2023-10-29 16:12:13.8481307: ControllerInterface.cpp(106)] Running method gamecoreLauncherInstallState
+[Info: 2023-10-29 16:12:13.8571696: GamecoreClientApi_win32.cpp(141)] Found matching amuid : Microsoft.4297127D64EC6_8wekyb3d8bbwe!Minecraft
+[Info: 2023-10-29 16:12:13.8572634: LauncherController.cpp(1574)] Microsoft Store Launcher is Installed
+[Info: 2023-10-29 16:12:13.8576863: ControllerInterface.cpp(106)] Running method getContentfulEnvironment
+[Info: 2023-10-29 16:12:13.8577885: ControllerInterface.cpp(106)] Running method getContentfulEnvironment
+[Info: 2023-10-29 16:12:13.8681142: NetQueue.cpp(213)] NetQueue: Starting net action https://launchercontent.mojang.com/games.json
+[Info: 2023-10-29 16:12:13.8682346: NetQueue.cpp(213)] NetQueue: Starting net action https://launchercontent.mojang.com/launcherPatchNotes_v2.json
+[Info: 2023-10-29 16:12:13.8682746: NetQueue.cpp(213)] NetQueue: Starting net action https://launchercontent.mojang.com/alertMessaging.json
+[Info: 2023-10-29 16:12:13.8995395: Xal.lib(0)] XAL: [op 190386328] Client operation StorageReadPlatformOperation continuing (promise 76504984)
+[Warning: 2023-10-29 16:12:13.8996336: Xal.lib(0)] XAL: Clock skew failed to be read: 0x89235107 "Client operation failed"
+[Warning: 2023-10-29 16:12:13.8996701: Xal.lib(0)] XAL: [op 76503640] Operation LoadClockSkew failed with result: 0x89235107 - Client operation failed
+[Info: 2023-10-29 16:12:13.8999619: Xal.lib(0)] XAL: [op 76568576] Operation LoadDeviceIdentity is starting
+[Info: 2023-10-29 16:12:13.9000002: Xal.lib(0)] XAL: [op 76568576]     with CV '1qO6ycwLdubZq0AU.5.0'
+[Info: 2023-10-29 16:12:13.9000343: Xal.lib(0)] XAL: [op 76568576] Operation LoadDeviceIdentity succeeded.
+[Info: 2023-10-29 16:12:13.9003084: Xal.lib(0)] XAL: [op 190597344] Operation GetDtoken is starting
+[Info: 2023-10-29 16:12:13.9003518: Xal.lib(0)] XAL: [op 190597344]     with CV '1qO6ycwLdubZq0AU.5.0'
+[Info: 2023-10-29 16:12:13.9003869: Xal.lib(0)] XAL: >>> Xal::Auth::InMemoryXboxTokenCache::GetTokenInternal (0000FF2560184180)
+[Info: 2023-10-29 16:12:13.9004365: Xal.lib(0)] XAL: Returning requested cache: [hasSignInDisplayClaims:false identityType:Dtoken, relyingParty:http://auth.xboxlive.com, subRelyingParty:, tokenType:JWT]:{HasSignInDisplayClaims:false hasData:true, isValid:true, xerr:0, expiry:2023-11-09T12:17:55.7520000Z, now:2023-10-29T16:12:13.8990000Z, systemNow:2023-10-29T16:12:13.8990000Z}
+[Info: 2023-10-29 16:12:13.9004773: Xal.lib(0)] XAL: <<< Xal::Auth::InMemoryXboxTokenCache::GetTokenInternal (0000FF2560184180)
+[Info: 2023-10-29 16:12:13.9005109: Xal.lib(0)] XAL: [op 190597344] Operation GetDtoken succeeded.
+[Info: 2023-10-29 16:12:13.9006775: Xal.lib(0)] XAL: [op 72135728] Operation InitializeTokenStack succeeded.
+[Info: 2023-10-29 16:12:13.9009640: Xal.lib(0)] XAL: [op 190596744] Operation GetDtoken is starting
+[Info: 2023-10-29 16:12:13.9010028: Xal.lib(0)] XAL: [op 190596744]     with CV '1qO6ycwLdubZq0AU.5.0'
+[Info: 2023-10-29 16:12:13.9010341: Xal.lib(0)] XAL: >>> Xal::Auth::InMemoryXboxTokenCache::GetTokenInternal (0000FF25602224C0)
+[Info: 2023-10-29 16:12:13.9010793: Xal.lib(0)] XAL: Returning requested cache: [hasSignInDisplayClaims:false identityType:Dtoken, relyingParty:http://auth.xboxlive.com, subRelyingParty:, tokenType:JWT]:{HasSignInDisplayClaims:false hasData:true, isValid:true, xerr:0, expiry:2023-11-09T12:17:55.7520000Z, now:2023-10-29T16:12:13.9000000Z, systemNow:2023-10-29T16:12:13.9000000Z}
+[Info: 2023-10-29 16:12:13.9011199: Xal.lib(0)] XAL: <<< Xal::Auth::InMemoryXboxTokenCache::GetTokenInternal (0000FF25602224C0)
+[Info: 2023-10-29 16:12:13.9011519: Xal.lib(0)] XAL: [op 190596744] Operation GetDtoken succeeded.
+[Info: 2023-10-29 16:12:13.9014370: Xal.lib(0)] XAL: [op 190609720] Operation GetMsaTicket is starting
+[Info: 2023-10-29 16:12:13.9014722: Xal.lib(0)] XAL: [op 190609720]     with CV '1qO6ycwLdubZq0AU.5.0'
+[Info: 2023-10-29 16:12:13.9016127: Xal.lib(0)] XAL: [op 72130712] Operation InitializeTokenStack is starting
+[Info: 2023-10-29 16:12:13.9016447: Xal.lib(0)] XAL: [op 72130712]     with CV '1qO6ycwLdubZq0AU.5.0'
+[Info: 2023-10-29 16:12:13.9017877: Xal.lib(0)] XAL: [op 61594456] Operation LoadClockSkew is starting
+[Info: 2023-10-29 16:12:13.9018220: Xal.lib(0)] XAL: [op 61594456]     with CV '1qO6ycwLdubZq0AU.5.0'
+[Info: 2023-10-29 16:12:13.9018609: Xal.lib(0)] XAL: [op 190384744] Client operation StorageReadPlatformOperation starting (promise 61596584)
+[Info: 2023-10-29 16:12:13.9019084: Xal.lib(0)] XAL: [op 190386328] Client operation StorageReadPlatformOperation destroyed
+[Info: 2023-10-29 16:12:13.9019547: Xal.lib(0)] XAL: [op 190384744] Client operation StorageReadPlatformOperation calling platform handler
+[Info: 2023-10-29 16:12:13.9019885: Xal.lib(0)] XAL: [op 190384744] Added operation as handle 0B590AD4 with type 6B2A2A5C
+[Info: 2023-10-29 16:12:13.9020140: XalStorage.cpp(314)] [op 0B590AD4] Xal Read callback - Started
+[Info: 2023-10-29 16:12:13.9020512: XalStorage.cpp(414)] [op 0B590AD4] Xal Read callback - Failed
+[Info: 2023-10-29 16:12:13.9022990: Xal.lib(0)] XAL: [op 190384744] Client operation StorageReadPlatformOperation platform handler reported completion status 'XalPlatformOperationResult_Failure' (1)
+[Info: 2023-10-29 16:12:13.9023373: Xal.lib(0)] XAL: [op 190384744] Cleared operation handle 0B590AD4
+[Info: 2023-10-29 16:12:13.9023680: Xal.lib(0)] XAL: [op 190384744] Client operation StorageReadPlatformOperation failed with result 0x89235107: Client operation failed
+[Info: 2023-10-29 16:12:14.0235915: Xal.lib(0)] XAL: [op 190384744] Client operation StorageReadPlatformOperation continuing (promise 61596584)
+[Warning: 2023-10-29 16:12:14.0237460: Xal.lib(0)] XAL: Clock skew failed to be read: 0x89235107 "Client operation failed"
+[Warning: 2023-10-29 16:12:14.0238144: Xal.lib(0)] XAL: [op 61594456] Operation LoadClockSkew failed with result: 0x89235107 - Client operation failed
+[Info: 2023-10-29 16:12:14.0243202: Xal.lib(0)] XAL: [op 76568856] Operation LoadDeviceIdentity is starting
+[Info: 2023-10-29 16:12:14.0243906: Xal.lib(0)] XAL: [op 76568856]     with CV '1qO6ycwLdubZq0AU.5.0'
+[Info: 2023-10-29 16:12:14.0244524: Xal.lib(0)] XAL: [op 76568856] Operation LoadDeviceIdentity succeeded.
+[Info: 2023-10-29 16:12:14.0249194: Xal.lib(0)] XAL: [op 190597344] Operation GetDtoken is starting
+[Info: 2023-10-29 16:12:14.0249841: Xal.lib(0)] XAL: [op 190597344]     with CV '1qO6ycwLdubZq0AU.5.0'
+[Info: 2023-10-29 16:12:14.0250451: Xal.lib(0)] XAL: >>> Xal::Auth::InMemoryXboxTokenCache::GetTokenInternal (0000FF2567865010)
+[Info: 2023-10-29 16:12:14.0251413: Xal.lib(0)] XAL: Returning requested cache: [hasSignInDisplayClaims:false identityType:Dtoken, relyingParty:http://auth.xboxlive.com, subRelyingParty:, tokenType:JWT]:{HasSignInDisplayClaims:false hasData:true, isValid:true, xerr:0, expiry:2023-11-09T12:17:55.7520000Z, now:2023-10-29T16:12:14.0250000Z, systemNow:2023-10-29T16:12:14.0250000Z}
+[Info: 2023-10-29 16:12:14.0252151: Xal.lib(0)] XAL: <<< Xal::Auth::InMemoryXboxTokenCache::GetTokenInternal (0000FF2567865010)
+[Info: 2023-10-29 16:12:14.0252715: Xal.lib(0)] XAL: [op 190597344] Operation GetDtoken succeeded.
+[Info: 2023-10-29 16:12:14.0253685: Xal.lib(0)] XAL: [op 72130712] Operation InitializeTokenStack succeeded.
+[Info: 2023-10-29 16:12:14.0254710: Xal.lib(0)] XAL: >>> Xal::Auth::MsaTicketSet::GetTicket (0000FF25678CEB14)
+[Info: 2023-10-29 16:12:14.0255019: Xal.lib(0)] XAL: Found requested token in cache: [firstScope:service::user.auth.xboxlive.com::MBI_SSL]:{expiry:2023-10-30T15:50:29.7650000Z, now:2023-10-29T16:12:14.0250000Z, systemNow:2023-10-29T16:12:14.0250000Z}
+[Info: 2023-10-29 16:12:14.0255269: Xal.lib(0)] XAL: <<< Xal::Auth::MsaTicketSet::GetTicket (0000FF25678CEB14)
+[Info: 2023-10-29 16:12:14.0255497: Xal.lib(0)] XAL: [op 190609720] Operation GetMsaTicket succeeded.
+[Info: 2023-10-29 16:12:14.0256452: Xal.lib(0)] XAL: >>> Xal::Auth::InMemoryXboxTokenCache::GetTokenInternal (0000FF25678F93F0)
+[Info: 2023-10-29 16:12:14.0256788: Xal.lib(0)] XAL: Returning requested cache: [hasSignInDisplayClaims:false identityType:Utoken, relyingParty:http://auth.xboxlive.com, subRelyingParty:, tokenType:JWT]:{HasSignInDisplayClaims:false hasData:true, isValid:true, xerr:0, expiry:2023-10-30T11:54:35.6310000Z, now:2023-10-29T16:12:14.0250000Z, systemNow:2023-10-29T16:12:14.0250000Z}
+[Info: 2023-10-29 16:12:14.0257066: Xal.lib(0)] XAL: <<< Xal::Auth::InMemoryXboxTokenCache::GetTokenInternal (0000FF25678F93F0)
+[Info: 2023-10-29 16:12:14.0257324: Xal.lib(0)] XAL: >>> Xal::Auth::InMemoryXboxTokenCache::GetTokenInternal (0000FF256790E9BC)
+[Info: 2023-10-29 16:12:14.0257635: Xal.lib(0)] XAL: Returning requested cache: [hasSignInDisplayClaims:false identityType:Ttoken, relyingParty:http://auth.xboxlive.com, subRelyingParty:, tokenType:JWT]:{HasSignInDisplayClaims:false hasData:true, isValid:true, xerr:0, expiry:2023-11-09T11:54:35.6270000Z, now:2023-10-29T16:12:14.0250000Z, systemNow:2023-10-29T16:12:14.0250000Z}
+[Info: 2023-10-29 16:12:14.0257911: Xal.lib(0)] XAL: <<< Xal::Auth::InMemoryXboxTokenCache::GetTokenInternal (0000FF256790E9BC)
+[Info: 2023-10-29 16:12:14.0259030: Xal.lib(0)] XAL: [op 193124016] Refresh Xtoken running with user: true.
+[Info: 2023-10-29 16:12:14.0259258: Xal.lib(0)] XAL: [op 193124016] Operation RefreshXtoken is starting
+[Info: 2023-10-29 16:12:14.0259485: Xal.lib(0)] XAL: [op 193124016]     with CV '1qO6ycwLdubZq0AU.5.0'
+[Info: 2023-10-29 16:12:14.0259707: Xal.lib(0)] XAL: [op 193124016] RefreshXtoken token fetch started.
+[Info: 2023-10-29 16:12:14.0267175: Xal.lib(0)] XAL: [op 190384744] Client operation StorageReadPlatformOperation destroyed
+[Info: 2023-10-29 16:12:14.0268489: NetQueue.cpp(213)] NetQueue: Starting net action xsts.auth.xboxlive.com
+[Info: 2023-10-29 16:12:14.2903192: CurlNetQueue.cpp(578)] NetQueue: Primary ip: 13.107.213.44, Host: launchercontent.mojang.com
+[Info: 2023-10-29 16:12:14.2904432: CurlNetQueue.cpp(578)] NetQueue: Primary ip: 13.107.213.44, Host: launchercontent.mojang.com
+[Info: 2023-10-29 16:12:14.2904890: CurlNetQueue.cpp(578)] NetQueue: Primary ip: 13.107.213.44, Host: launchercontent.mojang.com
+[Info: 2023-10-29 16:12:14.2905272: NetQueue.cpp(102)] NetQueue: Action finished: https://launchercontent.mojang.com/promotionalCalendars.json
+[Info: 2023-10-29 16:12:14.2906242: NetQueue.cpp(133)] Action finalized: https://launchercontent.mojang.com/promotionalCalendars.json
+[Info: 2023-10-29 16:12:14.2907278: NetQueue.cpp(102)] NetQueue: Action finished: https://launchercontent.mojang.com/games.json
+[Info: 2023-10-29 16:12:14.2907833: NetQueue.cpp(133)] Action finalized: https://launchercontent.mojang.com/games.json
+[Info: 2023-10-29 16:12:14.2908614: NetQueue.cpp(102)] NetQueue: Action finished: https://launchercontent.mojang.com/alertMessaging.json
+[Info: 2023-10-29 16:12:14.2909145: NetQueue.cpp(133)] Action finalized: https://launchercontent.mojang.com/alertMessaging.json
+[Info: 2023-10-29 16:12:14.2928741: CurlNetQueue.cpp(578)] NetQueue: Primary ip: 13.107.213.44, Host: launchercontent.mojang.com
+[Info: 2023-10-29 16:12:14.2928936: ControllerInterface.cpp(106)] Running method reportLatency
+[Info: 2023-10-29 16:12:14.2929650: NetQueue.cpp(102)] NetQueue: Action finished: https://launchercontent.mojang.com/launcherPatchNotes_v2.json
+[Info: 2023-10-29 16:12:14.2930321: NetQueue.cpp(133)] Action finalized: https://launchercontent.mojang.com/launcherPatchNotes_v2.json
+[Info: 2023-10-29 16:12:14.2932658: ControllerInterface.cpp(106)] Running method reportLatency
+[Info: 2023-10-29 16:12:14.2934191: ControllerInterface.cpp(106)] Running method reportLatency
+[Info: 2023-10-29 16:12:14.2945308: ControllerInterface.cpp(106)] Running method reportLatency
+[Info: 2023-10-29 16:12:14.2960147: NetQueue.cpp(213)] NetQueue: Starting net action https://launchercontent.mojang.com/images/6UixrnNk4x0TP4XWaoo2ky-TrailsAndTalesKeyartHero.jpeg
+[Info: 2023-10-29 16:12:14.3419135: NetQueue.cpp(213)] NetQueue: Starting net action https://launchercontent.mojang.com/images/2beS7kExnC1ruqkKRmgpC1-MCLiveBackGround.jpeg
+[Info: 2023-10-29 16:12:14.5203410: CurlNetQueue.cpp(578)] NetQueue: Primary ip: 13.107.213.44, Host: launchercontent.mojang.com
+[Info: 2023-10-29 16:12:14.5205591: NetQueue.cpp(102)] NetQueue: Action finished: https://launchercontent.mojang.com/images/6UixrnNk4x0TP4XWaoo2ky-TrailsAndTalesKeyartHero.jpeg
+[Info: 2023-10-29 16:12:14.5207007: NetQueue.cpp(133)] Action finalized: https://launchercontent.mojang.com/images/6UixrnNk4x0TP4XWaoo2ky-TrailsAndTalesKeyartHero.jpeg
+[Info: 2023-10-29 16:12:14.5827567: CurlNetQueue.cpp(578)] NetQueue: Primary ip: 13.107.213.44, Host: launchercontent.mojang.com
+[Info: 2023-10-29 16:12:14.5828468: NetQueue.cpp(102)] NetQueue: Action finished: https://launchercontent.mojang.com/images/2beS7kExnC1ruqkKRmgpC1-MCLiveBackGround.jpeg
+[Info: 2023-10-29 16:12:14.5829507: NetQueue.cpp(133)] Action finalized: https://launchercontent.mojang.com/images/2beS7kExnC1ruqkKRmgpC1-MCLiveBackGround.jpeg
+[Info: 2023-10-29 16:12:15.3240477: client_handler.cpp(861)] NotifyBrowserClosing
+[Info: 2023-10-29 16:12:15.3242898: browser_window.cpp(61)] OnBrowserClosing
+[Info: 2023-10-29 16:12:15.3268540: CurlNetQueue.cpp(578)] NetQueue: Primary ip: 52.156.147.113, Host: xsts.auth.xboxlive.com
+[Info: 2023-10-29 16:12:15.3269270: NetQueue.cpp(102)] NetQueue: Action finished: xsts.auth.xboxlive.com
+[Info: 2023-10-29 16:12:15.3270302: NetQueue.cpp(133)] Action finalized: xsts.auth.xboxlive.com
+[Info: 2023-10-29 16:12:15.3485330: client_handler.cpp(890)] NotifyBrowserClosed
+[Info: 2023-10-29 16:12:15.3486378: browser_window.cpp(68)] OnBrowserClosed (with delegate)
+[Info: 2023-10-29 16:12:15.3494315: root_window_manager.cpp(303)] Main window has been closed: 048FF898
+[Info: 2023-10-29 16:12:15.3495375: root_window_manager.cpp(335)] All windows are gone.
+[Info: 2023-10-29 16:12:15.3495760: root_window_manager.cpp(337)] Checking if we can close the application...
+[Info: 2023-10-29 16:12:15.3496435: main_context.cpp(431)] Will shutdown!
+[Info: 2023-10-29 16:12:15.3498278: ProductManager.cpp(544)] Stopping ProductManager..
+[Info: 2023-10-29 16:12:15.3763894: ProductManager.cpp(560)] ProductManager was stopped successfully
+[Info: 2023-10-29 16:12:15.3918264: Xal.lib(0)] XAL: Clock skew updated. Server time: 2023-10-29T16:12:15.2430000Z - System time: 2023-10-29T16:12:15.3900000Z = skew (seconds) 0
+[Info: 2023-10-29 16:12:15.3921161: Xal.lib(0)] XAL: [op 73172664] Operation SaveClockSkew is starting
+[Info: 2023-10-29 16:12:15.3921504: Xal.lib(0)] XAL: [op 73172664]     with CV '1qO6ycwLdubZq0AU.5.1'
+[Info: 2023-10-29 16:12:15.3921850: Xal.lib(0)] XAL: [op 190384744] Client operation StorageWritePlatformOperation starting (promise 190815400)
+[Info: 2023-10-29 16:12:15.3922399: Xal.lib(0)] XAL: [op 190384744] Client operation StorageWritePlatformOperation calling platform handler
+[Info: 2023-10-29 16:12:15.3922690: Xal.lib(0)] XAL: [op 190384744] Added operation as handle 0B590AD4 with type 6B2A2A54
+[Info: 2023-10-29 16:12:15.3922939: XalStorage.cpp(232)] [op 0B590AD4] Xal Write callback - Started
+[Info: 2023-10-29 16:12:15.3925066: Xal.lib(0)] XAL: [op 190384744] Client operation StorageWritePlatformOperation platform handler reported completion status 'XalPlatformOperationResult_Success' (0)
+[Info: 2023-10-29 16:12:15.3925377: Xal.lib(0)] XAL: [op 190384744] Cleared operation handle 0B590AD4
+[Info: 2023-10-29 16:12:15.3925632: Xal.lib(0)] XAL: [op 190384744] Client operation StorageWritePlatformOperation succeeded
+[Info: 2023-10-29 16:12:15.3926598: XalStorage.cpp(308)] [op 0B590AD4] Xal Write callback - Succeeded
+[Info: 2023-10-29 16:12:15.5158312: Xal.lib(0)] XAL: [op 190384744] Client operation StorageWritePlatformOperation continuing (promise 190815400)
+[Info: 2023-10-29 16:12:15.5159653: Xal.lib(0)] XAL: [op 73172664] Operation SaveClockSkew succeeded.
+[Info: 2023-10-29 16:12:15.5162677: Xal.lib(0)] XAL: [op 76389072] Operation WriteCacheData is starting
+[Info: 2023-10-29 16:12:15.5162999: Xal.lib(0)] XAL: [op 76389072]     with CV '1qO6ycwLdubZq0AU.5.1'
+[Info: 2023-10-29 16:12:15.5163373: Xal.lib(0)] XAL: [op 190385272] Client operation StorageWritePlatformOperation starting (promise 190815592)
+[Info: 2023-10-29 16:12:15.5164545: Xal.lib(0)] XAL: [op 190384744] Client operation StorageWritePlatformOperation destroyed
+[Info: 2023-10-29 16:12:15.5165150: Xal.lib(0)] XAL: [op 190385272] Client operation StorageWritePlatformOperation calling platform handler
+[Info: 2023-10-29 16:12:15.5165524: Xal.lib(0)] XAL: [op 190385272] Added operation as handle 0B590CE4 with type 6B2A2A54
+[Info: 2023-10-29 16:12:15.5165772: XalStorage.cpp(232)] [op 0B590CE4] Xal Write callback - Started
+[Info: 2023-10-29 16:12:15.6535287: Xal.lib(0)] XAL: [op 190385272] Client operation StorageWritePlatformOperation platform handler reported completion status 'XalPlatformOperationResult_Success' (0)
+[Info: 2023-10-29 16:12:15.6535845: Xal.lib(0)] XAL: [op 190385272] Cleared operation handle 0B590CE4
+[Info: 2023-10-29 16:12:15.6536153: Xal.lib(0)] XAL: [op 190385272] Client operation StorageWritePlatformOperation succeeded
+[Info: 2023-10-29 16:12:15.6537187: XalStorage.cpp(296)] [op 0B590CE4] Xal Write callback - Succeeded
+[Info: 2023-10-29 16:12:15.7814518: Xal.lib(0)] XAL: [op 190385272] Client operation StorageWritePlatformOperation continuing (promise 190815592)
+[Info: 2023-10-29 16:12:15.7815305: Xal.lib(0)] XAL: [op 76389072] Operation WriteCacheData succeeded.
+[Info: 2023-10-29 16:12:15.7817706: Xal.lib(0)] XAL: [op 193124016] RefreshXtoken token fetch done.
+[Info: 2023-10-29 16:12:15.7818300: Xal.lib(0)] XAL: [op 193124016] Operation RefreshXtoken succeeded.
+[Info: 2023-10-29 16:12:15.7830385: Xal.lib(0)] XAL: [op 76502632] Operation NsalDb_LoadTitleNsal is starting
+[Info: 2023-10-29 16:12:15.7830722: Xal.lib(0)] XAL: [op 76502632]     with CV '1qO6ycwLdubZq0AU.5.1'
+[Info: 2023-10-29 16:12:15.7832141: Xal.lib(0)] XAL: [op 190385272] Client operation StorageWritePlatformOperation destroyed
+[Info: 2023-10-29 16:12:15.7833301: NetQueue.cpp(213)] NetQueue: Starting net action title.mgt.xboxlive.com
+[Info: 2023-10-29 16:12:15.9749814: CurlNetQueue.cpp(578)] NetQueue: Primary ip: 40.122.46.48, Host: title.mgt.xboxlive.com
+[Info: 2023-10-29 16:12:15.9750398: NetQueue.cpp(102)] NetQueue: Action finished: title.mgt.xboxlive.com
+[Info: 2023-10-29 16:12:15.9751291: NetQueue.cpp(133)] Action finalized: title.mgt.xboxlive.com
+[Info: 2023-10-29 16:12:16.0317162: Xal.lib(0)] XAL: No signature policies found in NSAL document
+[Info: 2023-10-29 16:12:16.0317760: Xal.lib(0)] XAL: [op 76502632] Operation NsalDb_LoadTitleNsal succeeded.
+[Info: 2023-10-29 16:12:16.0318877: Xal.lib(0)] XAL: [op 72404128] Operation GetXtoken succeeded.
+[Info: 2023-10-29 16:12:16.0319974: Xal.lib(0)] XAL: [op 73981704] Operation GetDefaultUser succeeded.
+[Info: 2023-10-29 16:12:16.0322060: Xal.lib(0)] XAL: [op 76939600] Operation PresenceHeartbeat is starting
+[Info: 2023-10-29 16:12:16.0322376: Xal.lib(0)] XAL: [op 76939600]     with CV '1qO6ycwLdubZq0AU.14.0'
+[Info: 2023-10-29 16:12:16.0323625: Xal.lib(0)] XAL: [op 190614600] GetTokenAndSignature being run for usertype: User
+[Info: 2023-10-29 16:12:16.0323961: Xal.lib(0)] XAL: [op 190614600] Operation GetTokenAndSignature is starting
+[Info: 2023-10-29 16:12:16.0324283: Xal.lib(0)] XAL: [op 190614600]     with CV '1qO6ycwLdubZq0AU.14.0'
+[Info: 2023-10-29 16:12:16.0325369: Xal.lib(0)] XAL: [op 72137840] Operation InitializeTokenStack is starting
+[Info: 2023-10-29 16:12:16.0325677: Xal.lib(0)] XAL: [op 72137840]     with CV '1qO6ycwLdubZq0AU.14.0'
+[Info: 2023-10-29 16:12:16.0326789: Xal.lib(0)] XAL: [op 76572216] Operation LoadDeviceIdentity is starting
+[Info: 2023-10-29 16:12:16.0327189: Xal.lib(0)] XAL: [op 76572216]     with CV '1qO6ycwLdubZq0AU.14.0'
+[Info: 2023-10-29 16:12:16.0327507: Xal.lib(0)] XAL: [op 76572216] Operation LoadDeviceIdentity succeeded.
+[Info: 2023-10-29 16:12:16.0329386: Xal.lib(0)] XAL: [op 190594144] Operation GetDtoken is starting
+[Info: 2023-10-29 16:12:16.0329836: Xal.lib(0)] XAL: [op 190594144]     with CV '1qO6ycwLdubZq0AU.14.0'
+[Info: 2023-10-29 16:12:16.0330155: Xal.lib(0)] XAL: >>> Xal::Auth::InMemoryXboxTokenCache::GetTokenInternal (0000FF25DF3592D8)
+[Info: 2023-10-29 16:12:16.0331275: Xal.lib(0)] XAL: Returning requested cache: [hasSignInDisplayClaims:false identityType:Dtoken, relyingParty:http://auth.xboxlive.com, subRelyingParty:, tokenType:JWT]:{HasSignInDisplayClaims:false hasData:true, isValid:true, xerr:0, expiry:2023-11-09T12:17:55.7520000Z, now:2023-10-29T16:12:15.8850000Z, systemNow:2023-10-29T16:12:16.0320000Z}
+[Info: 2023-10-29 16:12:16.0331681: Xal.lib(0)] XAL: <<< Xal::Auth::InMemoryXboxTokenCache::GetTokenInternal (0000FF25DF3592D8)
+[Info: 2023-10-29 16:12:16.0332011: Xal.lib(0)] XAL: [op 190594144] Operation GetDtoken succeeded.
+[Info: 2023-10-29 16:12:16.0333135: Xal.lib(0)] XAL: [op 72137840] Operation InitializeTokenStack succeeded.
+[Info: 2023-10-29 16:12:16.0340200: Xal.lib(0)] XAL: >>> Xal::Auth::InMemoryXboxTokenCache::GetTokenInternal (0000FF25DF44E3F0)
+[Info: 2023-10-29 16:12:16.0340650: Xal.lib(0)] XAL: Returning requested cache: [hasSignInDisplayClaims:false identityType:Xtoken, relyingParty:http://xboxlive.com, subRelyingParty:, tokenType:JWT]:{HasSignInDisplayClaims:true hasData:true, isValid:true, xerr:0, expiry:2023-10-30T08:12:15.2430000Z, now:2023-10-29T16:12:15.8860000Z, systemNow:2023-10-29T16:12:16.0330000Z}
+[Info: 2023-10-29 16:12:16.0341025: Xal.lib(0)] XAL: <<< Xal::Auth::InMemoryXboxTokenCache::GetTokenInternal (0000FF25DF44E3F0)
+[Info: 2023-10-29 16:12:16.0342142: Xal.lib(0)] XAL: [op 77070720] Operation GetXtoken is starting
+[Info: 2023-10-29 16:12:16.0342471: Xal.lib(0)] XAL: [op 77070720]     with CV '1qO6ycwLdubZq0AU.14.0'
+[Info: 2023-10-29 16:12:16.0343540: Xal.lib(0)] XAL: [op 72137840] Operation InitializeTokenStack is starting
+[Info: 2023-10-29 16:12:16.0343851: Xal.lib(0)] XAL: [op 72137840]     with CV '1qO6ycwLdubZq0AU.14.0'
+[Info: 2023-10-29 16:12:16.0344981: Xal.lib(0)] XAL: [op 76565776] Operation LoadDeviceIdentity is starting
+[Info: 2023-10-29 16:12:16.0345294: Xal.lib(0)] XAL: [op 76565776]     with CV '1qO6ycwLdubZq0AU.14.0'
+[Info: 2023-10-29 16:12:16.0345610: Xal.lib(0)] XAL: [op 76565776] Operation LoadDeviceIdentity succeeded.
+[Info: 2023-10-29 16:12:16.0347445: Xal.lib(0)] XAL: [op 190599744] Operation GetDtoken is starting
+[Info: 2023-10-29 16:12:16.0347784: Xal.lib(0)] XAL: [op 190599744]     with CV '1qO6ycwLdubZq0AU.14.0'
+[Info: 2023-10-29 16:12:16.0348085: Xal.lib(0)] XAL: >>> Xal::Auth::InMemoryXboxTokenCache::GetTokenInternal (0000FF25DF50F0B4)
+[Info: 2023-10-29 16:12:16.0348497: Xal.lib(0)] XAL: Returning requested cache: [hasSignInDisplayClaims:false identityType:Dtoken, relyingParty:http://auth.xboxlive.com, subRelyingParty:, tokenType:JWT]:{HasSignInDisplayClaims:false hasData:true, isValid:true, xerr:0, expiry:2023-11-09T12:17:55.7520000Z, now:2023-10-29T16:12:15.8860000Z, systemNow:2023-10-29T16:12:16.0330000Z}
+[Info: 2023-10-29 16:12:16.0348838: Xal.lib(0)] XAL: <<< Xal::Auth::InMemoryXboxTokenCache::GetTokenInternal (0000FF25DF50F0B4)
+[Info: 2023-10-29 16:12:16.0349159: Xal.lib(0)] XAL: [op 190599744] Operation GetDtoken succeeded.
+[Info: 2023-10-29 16:12:16.0350245: Xal.lib(0)] XAL: [op 72137840] Operation InitializeTokenStack succeeded.
+[Info: 2023-10-29 16:12:16.0351382: Xal.lib(0)] XAL: [op 77070720] Operation GetXtoken succeeded.
+[Info: 2023-10-29 16:12:16.0352588: Xal.lib(0)] XAL: [op 190614600] Operation GetTokenAndSignature succeeded.
+[Info: 2023-10-29 16:12:16.0354960: Xal.lib(0)] XAL: [op 73910008] Operation TryAddFirstUserSilently succeeded.
+[Info: 2023-10-29 16:12:16.0357502: Xal.lib(0)] XAL: [op 190598744] Operation TryRefreshUser is starting
+[Info: 2023-10-29 16:12:16.0357795: Xal.lib(0)] XAL: [op 190598744]     with CV '1qO6ycwLdubZq0AU.15.0'
+[Info: 2023-10-29 16:12:16.0359533: Xal.lib(0)] XAL: [op 190614600] GetTokenAndSignature being run for usertype: User
+[Info: 2023-10-29 16:12:16.0359815: Xal.lib(0)] XAL: [op 190614600] Operation GetTokenAndSignature is starting
+[Info: 2023-10-29 16:12:16.0360066: Xal.lib(0)] XAL: [op 190614600]     with CV '1qO6ycwLdubZq0AU.15.0'
+[Info: 2023-10-29 16:12:16.0361069: Xal.lib(0)] XAL: [op 72137048] Operation InitializeTokenStack is starting
+[Info: 2023-10-29 16:12:16.0361394: Xal.lib(0)] XAL: [op 72137048]     with CV '1qO6ycwLdubZq0AU.15.0'
+[Info: 2023-10-29 16:12:16.0362477: Xal.lib(0)] XAL: [op 76572776] Operation LoadDeviceIdentity is starting
+[Info: 2023-10-29 16:12:16.0362746: Xal.lib(0)] XAL: [op 76572776]     with CV '1qO6ycwLdubZq0AU.15.0'
+[Info: 2023-10-29 16:12:16.0362993: Xal.lib(0)] XAL: [op 76572776] Operation LoadDeviceIdentity succeeded.
+[Info: 2023-10-29 16:12:16.0364744: Xal.lib(0)] XAL: [op 190599144] Operation GetDtoken is starting
+[Info: 2023-10-29 16:12:16.0365012: Xal.lib(0)] XAL: [op 190599144]     with CV '1qO6ycwLdubZq0AU.15.0'
+[Info: 2023-10-29 16:12:16.0365273: Xal.lib(0)] XAL: >>> Xal::Auth::InMemoryXboxTokenCache::GetTokenInternal (0000FF25DF6B33C0)
+[Info: 2023-10-29 16:12:16.0365643: Xal.lib(0)] XAL: Returning requested cache: [hasSignInDisplayClaims:false identityType:Dtoken, relyingParty:http://auth.xboxlive.com, subRelyingParty:, tokenType:JWT]:{HasSignInDisplayClaims:false hasData:true, isValid:true, xerr:0, expiry:2023-11-09T12:17:55.7520000Z, now:2023-10-29T16:12:15.8880000Z, systemNow:2023-10-29T16:12:16.0360000Z}
+[Info: 2023-10-29 16:12:16.0365933: Xal.lib(0)] XAL: <<< Xal::Auth::InMemoryXboxTokenCache::GetTokenInternal (0000FF25DF6B33C0)
+[Info: 2023-10-29 16:12:16.0366187: Xal.lib(0)] XAL: [op 190599144] Operation GetDtoken succeeded.
+[Info: 2023-10-29 16:12:16.0367209: Xal.lib(0)] XAL: [op 72137048] Operation InitializeTokenStack succeeded.
+[Info: 2023-10-29 16:12:16.0373910: Xal.lib(0)] XAL: >>> Xal::Auth::InMemoryXboxTokenCache::GetTokenInternal (0000FF25DF785FA0)
+[Info: 2023-10-29 16:12:16.0374324: Xal.lib(0)] XAL: Returning requested cache: [hasSignInDisplayClaims:false identityType:Xtoken, relyingParty:http://xboxlive.com, subRelyingParty:, tokenType:JWT]:{HasSignInDisplayClaims:true hasData:true, isValid:true, xerr:0, expiry:2023-10-30T08:12:15.2430000Z, now:2023-10-29T16:12:15.8880000Z, systemNow:2023-10-29T16:12:16.0360000Z}
+[Info: 2023-10-29 16:12:16.0374688: Xal.lib(0)] XAL: <<< Xal::Auth::InMemoryXboxTokenCache::GetTokenInternal (0000FF25DF785FA0)
+[Info: 2023-10-29 16:12:16.0375813: Xal.lib(0)] XAL: [op 72247632] Operation GetXtoken is starting
+[Info: 2023-10-29 16:12:16.0376260: Xal.lib(0)] XAL: [op 72247632]     with CV '1qO6ycwLdubZq0AU.15.0'
+[Info: 2023-10-29 16:12:16.0377584: Xal.lib(0)] XAL: [op 72135728] Operation InitializeTokenStack is starting
+[Info: 2023-10-29 16:12:16.0377858: Xal.lib(0)] XAL: [op 72135728]     with CV '1qO6ycwLdubZq0AU.15.0'
+[Info: 2023-10-29 16:12:16.0380221: Xal.lib(0)] XAL: [op 76569416] Operation LoadDeviceIdentity is starting
+[Info: 2023-10-29 16:12:16.0380491: Xal.lib(0)] XAL: [op 76569416]     with CV '1qO6ycwLdubZq0AU.15.0'
+[Info: 2023-10-29 16:12:16.0380742: Xal.lib(0)] XAL: [op 76569416] Operation LoadDeviceIdentity succeeded.
+[Info: 2023-10-29 16:12:16.0383811: Xal.lib(0)] XAL: [op 190598144] Operation GetDtoken is starting
+[Info: 2023-10-29 16:12:16.0384084: Xal.lib(0)] XAL: [op 190598144]     with CV '1qO6ycwLdubZq0AU.15.0'
+[Info: 2023-10-29 16:12:16.0384355: Xal.lib(0)] XAL: >>> Xal::Auth::InMemoryXboxTokenCache::GetTokenInternal (0000FF25DF8851A8)
+[Info: 2023-10-29 16:12:16.0384714: Xal.lib(0)] XAL: Returning requested cache: [hasSignInDisplayClaims:false identityType:Dtoken, relyingParty:http://auth.xboxlive.com, subRelyingParty:, tokenType:JWT]:{HasSignInDisplayClaims:false hasData:true, isValid:true, xerr:0, expiry:2023-11-09T12:17:55.7520000Z, now:2023-10-29T16:12:15.8890000Z, systemNow:2023-10-29T16:12:16.0370000Z}
+[Info: 2023-10-29 16:12:16.0385041: Xal.lib(0)] XAL: <<< Xal::Auth::InMemoryXboxTokenCache::GetTokenInternal (0000FF25DF8851A8)
+[Info: 2023-10-29 16:12:16.0385292: Xal.lib(0)] XAL: [op 190598144] Operation GetDtoken succeeded.
+[Info: 2023-10-29 16:12:16.0386306: Xal.lib(0)] XAL: [op 72135728] Operation InitializeTokenStack succeeded.
+[Info: 2023-10-29 16:12:16.0387592: Xal.lib(0)] XAL: [op 72247632] Operation GetXtoken succeeded.
+[Info: 2023-10-29 16:12:16.0388639: Xal.lib(0)] XAL: [op 190614600] Operation GetTokenAndSignature succeeded.
+[Info: 2023-10-29 16:12:16.0389861: Xal.lib(0)] XAL: [op 190598744] Operation TryRefreshUser succeeded.
+[Info: 2023-10-29 16:12:16.0391629: Xal.lib(0)] XAL: [op 76138216] Operation UploadTelemetryEvents is starting
+[Info: 2023-10-29 16:12:16.0392289: Xal.lib(0)] XAL: XalTryAddDefaultUserSilentlyAsync calling back to client with result 'Ok' (0x00000000)
+[Info: 2023-10-29 16:12:16.0395030: NetQueue.cpp(213)] NetQueue: Starting net action userpresence.xboxlive.com
+[Info: 2023-10-29 16:12:16.0397023: Xal.lib(0)] XAL: Handle 5E800001 to user 1209797042088443905 created
+[Info: 2023-10-29 16:12:16.0398989: UserIdentity.cpp(236)] Sign-in success - cleared token
+[Warning: 2023-10-29 16:12:16.0399736: TelemetryEventSink_PlayFab.cpp(62)] no valid access token, can't send telemetry events, will try again later.
+[Info: 2023-10-29 16:12:16.0400129: Xal.lib(0)] XAL: Cleanup starting
+[Info: 2023-10-29 16:12:16.0400244: UnifiedMSAAccounts.cpp(189)] Successfully Auto Signed in
+[Info: 2023-10-29 16:12:16.0470618: NetQueue.cpp(213)] NetQueue: Starting net action vortex.data.microsoft.com
+[Warning: 2023-10-29 16:12:16.1574967: Xal.lib(0)] XAL: Trying to cleanup while there are users signed in
+[Warning: 2023-10-29 16:12:16.1575755: Xal.lib(0)] XAL: [op 61596360] Operation UploadTelemetryEventsWithDelay failed with result: 0x80004004 - Operation was canceled
+[Warning: 2023-10-29 16:12:16.1577092: Xal.lib(0)] XAL: [op 76939600] Operation PresenceHeartbeat failed with result: 0x80004004 - Operation was canceled
+[Warning: 2023-10-29 16:12:16.1578416: Xal.lib(0)] XAL: [op 76138216] Operation UploadTelemetryEvents failed with result: 0x80004004 - Operation was canceled
+[Info: 2023-10-29 16:12:16.1578903: Xal.lib(0)] XAL: [op 76137184] Operation UploadTelemetryEvents is starting
+[Warning: 2023-10-29 16:12:16.1579331: Xal.lib(0)] XAL: [op 76137184] Operation UploadTelemetryEvents is already cancelled
+
+[Warning: 2023-10-29 16:12:16.1579829: Xal.lib(0)] XAL: [op 76137184] Operation UploadTelemetryEvents failed with result: 0x80004004 - Operation was canceled
+[Info: 2023-10-29 16:12:16.1580370: Xal.lib(0)] XAL: @@@ Terminating with 1 queues
+[Info: 2023-10-29 16:12:16.1580953: Xal.lib(0)] XAL: Cleanup pending
+[Info: 2023-10-29 16:12:17.1444019: CurlNetQueue.cpp(578)] NetQueue: Primary ip: 40.86.103.106, Host: userpresence.xboxlive.com
+[Info: 2023-10-29 16:12:17.1445064: NetQueue.cpp(102)] NetQueue: Action finished: userpresence.xboxlive.com
+[Info: 2023-10-29 16:12:17.1446790: NetQueue.cpp(133)] Action finalized: userpresence.xboxlive.com
+[Info: 2023-10-29 16:12:19.6202091: CurlNetQueue.cpp(578)] NetQueue: Primary ip: 20.189.173.18, Host: vortex.data.microsoft.com
+[Info: 2023-10-29 16:12:19.6202711: NetQueue.cpp(102)] NetQueue: Action finished: vortex.data.microsoft.com
+[Info: 2023-10-29 16:12:19.6203745: NetQueue.cpp(133)] Action finalized: vortex.data.microsoft.com
+[Info: 2023-10-29 16:12:19.6339165: Xal.lib(0)] XAL: All queues terminated
+[Info: 2023-10-29 16:12:19.9920780: UnifiedMSAAccounts.cpp(373)] Added/Updated account : No Token
+[Error: 2023-10-29 16:12:19.9921724: UserIdentity.cpp(487)] UserIdentity error: getGamerTag called without being signed in!
+[Info: 2023-10-29 16:12:19.9957594: NetQueue.cpp(213)] NetQueue: Starting net action https://sentry.io/api/2703928/store/
+[Info: 2023-10-29 16:12:19.9969702: NetQueue.cpp(59)] NetQueue: Initiating shutdown.
+[Info: 2023-10-29 16:12:19.9970400: NetQueue.cpp(73)] NetQueue: Waiting for worker thread to finish...
+[Error: 2023-10-29 16:12:19.9958107: UserIdentity.cpp(442)] UserIdentity error: getGamerPicAsync called without being signed in!
+[Info: 2023-10-29 16:12:19.9971227: NetQueue.cpp(419)] NetQueue: Worker thread shutting down.
+[Info: 2023-10-29 16:12:20.0024141: UnifiedMSAAccounts.cpp(383)] Has valid token, going to fetch profile
+[Error: 2023-10-29 16:12:20.0025672: MinecraftServicesApi.cpp(926)] Unable to access MinecraftServices, no available Netqueue
+[Error: 2023-10-29 16:12:20.0026322: UnifiedMSAAccounts.cpp(688)] Failed to fetch Minecraft profile. Service error: 7
+[Info: 2023-10-29 16:12:20.0055384: NetQueue.cpp(76)] NetQueue: Done.
+[Info: 2023-10-29 16:12:20.0072138: NetQueue.cpp(213)] NetQueue: Starting net action https://sentry.io/api/2703928/store/
+[Info: 2023-10-29 16:12:20.0073197: NetQueue.cpp(213)] NetQueue: Starting net action https://sentry.io/api/2703928/store/
+[Error: 2023-10-29 16:12:20.0082719: UnifiedMSAAccounts.cpp(398)] Failed to get profile for MSA account 2535448992131682. Error: Profile fetch failed
+[Info: 2023-10-29 16:12:20.0083750: UnifiedMSAAccounts.cpp(704)] Starting to get entitlements[force:true] for account
+[Info: 2023-10-29 16:12:20.0224568: NetQueue.cpp(213)] NetQueue: Starting net action https://sentry.io/api/2703928/store/
+[Info: 2023-10-29 16:12:20.0760547: UnifiedAccounts.cpp(345)] Internet state in main process: online=0
+[Error: 2023-10-29 16:12:20.0762037: MinecraftServicesApi.cpp(704)] Unable to access MinecraftServices, no available Netqueue
+[Error: 2023-10-29 16:12:20.0762690: EntitlementsManager.cpp(218)] Failed to get entitlements from the services API... Error: 7
+[Info: 2023-10-29 16:12:20.0811141: EntitlementsManager.cpp(738)] Entitlement Health - [okay], [okay], [okay], [okay], [okay], GREEN
+[Info: 2023-10-29 16:12:20.0845865: NetQueue.cpp(213)] NetQueue: Starting net action https://sentry.io/api/2703928/store/
+[Error: 2023-10-29 16:12:20.0942118: Discovery.cpp(187)] Unable to access FranchiseServices, no available NetQueue
+[Error: 2023-10-29 16:12:20.0943113: FranchiseService.cpp(132)] Unable to get auth service URI for environment: 1
+[Warning: 2023-10-29 16:12:20.0943933: AzureUpdateTools.cpp(82)] Failed to get valid KeyMaker response: 5. Using fallback url.
+[Info: 2023-10-29 16:12:20.1455761: UnifiedMSAAccounts.cpp(599)] Broadcasting change due to new [forced:1] Entitlements for 4b3f5e1bb12344579b411cd45026160d
+[Warning: 2023-10-29 16:12:20.1456306: UnifiedAccounts.cpp(191)] Lost entitlements updated callback context
+[Warning: 2023-10-29 16:12:20.1471485: ProductInstance.cpp(71)] Product was not informed of shutdown prior to deconstruction
+[Info: 2023-10-29 16:12:20.1530523: NetQueue.cpp(59)] NetQueue: Initiating shutdown.
+[Info: 2023-10-29 16:12:20.1531171: NetQueue.cpp(73)] NetQueue: Waiting for worker thread to finish...
+[Info: 2023-10-29 16:12:20.1532766: NetQueue.cpp(419)] NetQueue: Worker thread shutting down.
+[Info: 2023-10-29 16:12:20.1585791: NetQueue.cpp(76)] NetQueue: Done.
+[Info: 2023-10-29 16:12:21.0845341: CurlNetQueue.cpp(578)] NetQueue: Primary ip: 35.186.247.156, Host: sentry.io
+[Info: 2023-10-29 16:12:21.0846341: NetQueue.cpp(102)] NetQueue: Action finished: https://sentry.io/api/2703928/store/
+[Info: 2023-10-29 16:12:21.0846703: SentryAPI.cpp(117)] Rate limiting activated (429). Instructed to back off for 40 seconds.
+[Warning: 2023-10-29 16:12:21.0847136: NetQueue.cpp(124)] Action https://sentry.io/api/2703928/store/ failed in response handler. response code: 429 - error string: '
+[Info: 2023-10-29 16:12:21.0915289: CurlNetQueue.cpp(578)] NetQueue: Primary ip: 35.186.247.156, Host: sentry.io
+[Info: 2023-10-29 16:12:21.0915979: CurlNetQueue.cpp(632)] NetQueue: Action aborted: https://sentry.io/api/2703928/store/
+[Info: 2023-10-29 16:12:21.0916364: NetQueue.cpp(102)] NetQueue: Action finished: https://sentry.io/api/2703928/store/
+[Info: 2023-10-29 16:12:21.0916522: SentryAPI.cpp(117)] Rate limiting activated (429). Instructed to back off for 41 seconds.
+[Warning: 2023-10-29 16:12:21.0916705: NetQueue.cpp(124)] Action https://sentry.io/api/2703928/store/ failed in response handler. response code: 429 - error string: 'Callback aborted
+[Info: 2023-10-29 16:12:21.1106237: CurlNetQueue.cpp(578)] NetQueue: Primary ip: 35.186.247.156, Host: sentry.io
+[Info: 2023-10-29 16:12:21.1107674: CurlNetQueue.cpp(632)] NetQueue: Action aborted: https://sentry.io/api/2703928/store/
+[Info: 2023-10-29 16:12:21.1108429: NetQueue.cpp(102)] NetQueue: Action finished: https://sentry.io/api/2703928/store/
+[Info: 2023-10-29 16:12:21.1108619: SentryAPI.cpp(117)] Rate limiting activated (429). Instructed to back off for 40 seconds.
+[Warning: 2023-10-29 16:12:21.1108862: NetQueue.cpp(124)] Action https://sentry.io/api/2703928/store/ failed in response handler. response code: 429 - error string: 'Callback aborted
+[Info: 2023-10-29 16:12:21.2059911: CurlNetQueue.cpp(578)] NetQueue: Primary ip: 35.186.247.156, Host: sentry.io
+[Info: 2023-10-29 16:12:21.2060914: CurlNetQueue.cpp(632)] NetQueue: Action aborted: https://sentry.io/api/2703928/store/
+[Info: 2023-10-29 16:12:21.2061331: NetQueue.cpp(102)] NetQueue: Action finished: https://sentry.io/api/2703928/store/
+[Info: 2023-10-29 16:12:21.2061506: SentryAPI.cpp(117)] Rate limiting activated (429). Instructed to back off for 40 seconds.
+[Warning: 2023-10-29 16:12:21.2061716: NetQueue.cpp(124)] Action https://sentry.io/api/2703928/store/ failed in response handler. response code: 429 - error string: 'Callback aborted
+[Info: 2023-10-29 16:12:21.2072553: CurlNetQueue.cpp(578)] NetQueue: Primary ip: 35.186.247.156, Host: sentry.io
+[Info: 2023-10-29 16:12:21.2073560: CurlNetQueue.cpp(632)] NetQueue: Action aborted: https://sentry.io/api/2703928/store/
+[Info: 2023-10-29 16:12:21.2073935: NetQueue.cpp(102)] NetQueue: Action finished: https://sentry.io/api/2703928/store/
+[Info: 2023-10-29 16:12:21.2074478: SentryAPI.cpp(117)] Rate limiting activated (429). Instructed to back off for 40 seconds.
+[Warning: 2023-10-29 16:12:21.2074696: NetQueue.cpp(124)] Action https://sentry.io/api/2703928/store/ failed in response handler. response code: 429 - error string: 'Callback aborted
+[Info: 2023-10-29 16:12:21.2391682: StartLibrary.cpp(123)] Launcher ended with 0
+[Info: 2023-10-29 16:12:21.2392352: NetQueue.cpp(59)] NetQueue: Initiating shutdown.
+[Info: 2023-10-29 16:12:21.2392491: NetQueue.cpp(73)] NetQueue: Waiting for worker thread to finish...
+[Info: 2023-10-29 16:12:21.2393027: NetQueue.cpp(419)] NetQueue: Worker thread shutting down.
+[Info: 2023-10-29 16:12:21.2414567: NetQueue.cpp(76)] NetQueue: Done.
+[Info: 2023-10-29 16:12:21.2415220: NetQueue.cpp(59)] NetQueue: Initiating shutdown.
+[Info: 2023-10-29 16:12:21.2415384: NetQueue.cpp(64)] NetQueue: No thread currently running

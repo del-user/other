@@ -1,0 +1,47 @@
+{
+  "profiles" : {
+    "3878f051b8e4c9947b92651bcbaa35ce" : {
+      "created" : "1970-01-01T00:00:00.000Z",
+      "icon" : "Dirt",
+      "lastUsed" : "1970-01-01T00:00:00.000Z",
+      "lastVersionId" : "latest-snapshot",
+      "name" : "",
+      "type" : "latest-snapshot"
+    },
+    "Better MC [FORGE] - BMC1" : {
+      "created" : "2023-10-30T15:06:21.959Z",
+      "gameDir" : "C:\\Users\\nikod\\curseforge\\minecraft\\Instances\\Better MC [FORGE] - BMC1\\",
+      "javaArgs" : "-Xmx4096m -Xms256m -Dminecraft.applet.TargetDirectory=\"C:\\Users\\nikod\\curseforge\\minecraft\\Instances\\Better MC [FORGE] - BMC1\" -Dfml.ignorePatchDiscrepancies=true -Dfml.ignoreInvalidMinecraftCertificates=true -Duser.language=en -Duser.country=US",
+      "lastUsed" : "2023-10-30T15:07:22.767Z",
+      "lastVersionId" : "forge-36.2.39",
+      "name" : "Better MC [FORGE] - BMC1",
+      "resolution" : {
+        "height" : 768,
+        "width" : 1024
+      },
+      "type" : "custom"
+    },
+    "de1c1e4ee80bc1dc3331a0ce0854dedc" : {
+      "created" : "1970-01-02T00:00:00.000Z",
+      "icon" : "Grass",
+      "lastUsed" : "1970-01-02T00:00:00.000Z",
+      "lastVersionId" : "latest-release",
+      "name" : "",
+      "type" : "latest-release"
+    }
+  },
+  "settings" : {
+    "crashAssistance" : false,
+    "enableAdvanced" : false,
+    "enableAnalytics" : false,
+    "enableHistorical" : false,
+    "enableReleases" : true,
+    "enableSnapshots" : false,
+    "keepLauncherOpen" : false,
+    "profileSorting" : "ByLastPlayed",
+    "showGameLog" : false,
+    "showMenu" : false,
+    "soundOn" : false
+  },
+  "version" : 3
+}

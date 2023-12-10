@@ -1,0 +1,12 @@
+{
+  "channel" : "release",
+  "customChannels" : [],
+  "deviceId" : 8762041476544333432,
+  "formatVersion" : 0,
+  "locale" : "pl-PL",
+  "productLibraryDir" : "C:\\Users\\nikod\\AppData\\Local\\Mojang\\products",
+  "quickPlayEnabled" : false,
+  "useArm64JreIfSupported" : false,
+  "useMagnifiedMode" : false,
+  "version" : 5
+}

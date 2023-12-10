@@ -1,0 +1,9 @@
+[Info: 2023-10-26 12:16:52.3030120: NativeUpdaterWin32.cpp(277)] 26-10-2023 14:16:52 - going to update minecraft.exe using C:\Users\nikod\curseforge\minecraft\Install\update_files\Minecraft.exe
+[Info: 2023-10-26 12:16:52.3037752: NativeUpdaterWin32.cpp(279)] Launcher is definitely closed.
+[Info: 2023-10-26 12:16:52.3038110: NativeUpdaterWin32.cpp(123)] Backing up previous version of the launcher...
+[Info: 2023-10-26 12:16:52.3044854: NativeUpdaterWin32.cpp(144)] Previous version has been backed up as minecraft.exe.backup.
+[Info: 2023-10-26 12:16:52.3045303: NativeUpdaterWin32.cpp(151)] Installing new version of the launcher...
+[Info: 2023-10-26 12:16:52.3056345: NativeUpdaterWin32.cpp(159)] Moved C:\Users\nikod\curseforge\minecraft\Install\update_files\Minecraft.exe to minecraft.exe successfully.
+[Info: 2023-10-26 12:16:52.3056835: NativeUpdaterWin32.cpp(161)] Removing backup file minecraft.exe.backup
+[Info: 2023-10-26 12:16:52.3065882: NativeUpdaterWin32.cpp(168)] Removed backup minecraft.exe.backup successfully.
+[Info: 2023-10-26 12:16:52.3066294: NativeUpdaterWin32.cpp(306)] Update succeeded!

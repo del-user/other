@@ -1,0 +1,7 @@
+[1030/160624.721:INFO:main_context.cpp(131)] CEF initialized successfully.
+[1030/160624.721:INFO:main_context.cpp(133)] CEF version: 99.2.14+g3f796b8+chromium-99.0.4844.84
+[1030/160650.231:INFO:CONSOLE(2)] "Uncaught (in promise) NotAllowedError: play() failed because the user didn't interact with the document first. https://goo.gl/xX8pDD", source: https://mojang/launcher/static/js/app.4b0c3b67.bundle.js (2)
+[1030/160656.506:INFO:CONSOLE(2)] "Uncaught (in promise) NotAllowedError: play() failed because the user didn't interact with the document first. https://goo.gl/xX8pDD", source: https://mojang/launcher/static/js/app.4b0c3b67.bundle.js (2)
+[1030/160657.496:INFO:CONSOLE(2)] "Uncaught (in promise) NotAllowedError: play() failed because the user didn't interact with the document first. https://goo.gl/xX8pDD", source: https://mojang/launcher/static/js/app.4b0c3b67.bundle.js (2)
+[1030/160722.791:WARNING:frame_host_impl.cc(533)] SendProcessMessage sent to detached mainframe 21474836481 [5,1] will be ignored
+[1030/160824.995:ERROR:gpu_init.cc(440)] Passthrough is not supported, GL is disabled, ANGLE is 

@@ -1,0 +1,58 @@
+{
+  "quickPlayData" : {
+    "2535448992131682" : 
+    [
+      {
+        "epochLastPlayedTimeMs" : 1698678442727,
+        "id" : "Better MC [FORGE] - BMC1",
+        "javaInstance" : {
+          "configId" : "Better MC [FORGE] - BMC1"
+        },
+        "source" : "JavaQuickPlay"
+      },
+      {
+        "epochLastPlayedTimeMs" : 1698597794000,
+        "id" : "New World",
+        "javaInstance" : {
+          "configId" : "DarkRPG - RPG Quest Magic & Origins Online Adventure",
+          "game" : {
+            "gamemode" : "survival",
+            "type" : "singleplayer"
+          }
+        },
+        "name" : "New World",
+        "source" : "JavaQuickPlay"
+      },
+      {
+        "epochLastPlayedTimeMs" : 1698596664000,
+        "id" : "New World",
+        "javaInstance" : {
+          "configId" : "Fabulously Optimized",
+          "game" : {
+            "gamemode" : "survival",
+            "type" : "singleplayer"
+          }
+        },
+        "name" : "New World",
+        "source" : "JavaQuickPlay"
+      },
+      {
+        "epochLastPlayedTimeMs" : 1698594678730,
+        "id" : "1.16.5 forge",
+        "javaInstance" : {
+          "configId" : "1.16.5 forge"
+        },
+        "source" : "JavaQuickPlay"
+      },
+      {
+        "epochLastPlayedTimeMs" : 1698360693780,
+        "id" : "DawnCraft - An Adventure RPG Modpack",
+        "javaInstance" : {
+          "configId" : "DawnCraft - An Adventure RPG Modpack"
+        },
+        "source" : "JavaQuickPlay"
+      }
+    ]
+  },
+  "version" : 0
+}
